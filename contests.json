@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-09-19T16:15:11.869019+00:00",
+  "updated_at": "2026-09-19T20:17:54.976162+00:00",
   "sources_checked": [
     "Contest Girl",
     "Contest Scoop",
     "Contest Canada"
   ],
   "errors": [
-    "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/"
+    "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/",
+    "Gleam: 403 Client Error: Forbidden for url: https://gleam.io/giveaways"
   ],
   "contests": [
     {
@@ -43,7 +44,7 @@
       "eligibility": "Canada",
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/global-news-the-morning-show-contest/",
-      "note": "The Morning Show Contest: Win Emerald Yacht Cruises from… ​ Prize: 8-day Hidden Gems of the Croatian Riviera yacht cruise for 2 aboard Emerald Kaia; Dubrovnik to Venice; Category B cabin; meals and beverages; $29,700 Ends: Oct 18/26 Who: Canada excluding QC, age of majority How: Submit online entry form Entry limit: 1 entry/day Enter: Visit Emerald Cruises and Tours Read More Canada Contests Daily Entry Win a Cruise Contest Canada - Cruise Giveaways Win trips Angie B"
+      "note": "The Morning Show Contest: Win Emerald Yacht Cruises from… ​ Prize: 8-day Hidden Gems of the Croatian Riviera yacht cruise for 2 aboard Emerald Kaia; Dubrovnik to Venice; Category B cabin; meals and beverages; $29,700 Ends: Oct 18/26 Who: Canada excluding QC, age of majority How: Submit online entry form Entry limit: 1 entry/day Enter: Visit Emerald Cruises and Tours Read More Canada Contests Daily Entry Win a Cruise Win trips Angie B"
     },
     {
       "id": "2a1faac7ff26",
@@ -67,7 +68,19 @@
       "eligibility": "Canada",
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/cruise-one-travel-giveaway/",
-      "note": "CruiseOne Travel Contest: Win 7-night Caribbean cruise for 2 Prize: Up to 7-night Caribbean cruise for 2, Standard Veranda stateroom, $4,500 USD Ends: Oct 12/26 Who: Canada excluding QC, age 18+ How: Submit entry form Entry limit: 1/person Enter at: Enter at CruiseOne Read More Canada Contests Sweepstakes Win a Cruise Contest Canada - Cruise Giveaways Win trips KIM"
+      "note": "CruiseOne Travel Contest: Win 7-night Caribbean cruise for 2 Prize: Up to 7-night Caribbean cruise for 2, Standard Veranda stateroom, $4,500 USD Ends: Oct 12/26 Who: Canada excluding QC, age 18+ How: Submit entry form Entry limit: 1/person Enter at: Enter at CruiseOne Read More Canada Contests Sweepstakes Win a Cruise Win trips KIM"
+    },
+    {
+      "id": "5d45daaf5668",
+      "title": "Harley Davidson Canada Contest: Win Harley Street Glide, $2,500…",
+      "sponsor": "",
+      "prize": 2500.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/harley-davidson-motorcycle-contest/",
+      "note": "Harley Davidson Canada Contest: Win Harley Street Glide, $2,500… Prize: 2026 Harley-Davidson Street Glide + $2,500 CAD cash gift card; 4 × $750 CAD H-D Shopping Sprees Ends: Sep 30/26 Who: Canada, age 21+ How: Dealer QR registration, email, dealer codes/keywords Entry limit: 18/person Enter at: Visit Mighty Loud Enterprises Read More Canada Contests Popular Contests Sweepstakes Win a Motorcycle Win Cash Win Gift Cards Angie B"
     },
     {
       "id": "688ac4aace33",
@@ -116,18 +129,6 @@
       "source": "Contest Canada",
       "url": "https://contestcanada.net/category/travel-contests/",
       "note": "Today’s Quick Links Travel Contests Download the app! Win $1,000!"
-    },
-    {
-      "id": "258956af1b2a",
-      "title": "IKEA Family CA Contest: Win $500 IKEA Gift Cards…",
-      "sponsor": "",
-      "prize": 500.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/ikeafamily-ca-contest/",
-      "note": "IKEA Family CA Contest: Win $500 IKEA Gift Cards… Prize: 5 × $500 IKEA Gift Cards Ends: Oct 25/26 Who: Canada, age of majority How: Answer 5 true-or-false questions, login, submit form Entry limit: Single entry Enter at: Visit IKEA Canada Read More Canada Contests Win Gift Cards Angie B"
     },
     {
       "id": "3859f3f70975",
@@ -490,6 +491,18 @@
       "note": "Privacy Policy & Disclosure"
     },
     {
+      "id": "9e515cd732db",
+      "title": "quebec contesters can try this link https://jeux.c...",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/17/win-1-of-3-3-night-trips-to-london-england-with-flights-hotel-cash-mclaren-event-valued-at-7000-or-1-of-15-secondary-prize-packs/comment-page-1/#comment-1013582",
+      "note": "JH said quebec contesters can try this link https://jeux.c..."
+    },
+    {
       "id": "be7cf3584910",
       "title": "Resources",
       "sponsor": "",
@@ -523,7 +536,7 @@
       "eligibility": "Canada",
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/royal-caribbean-cruise-sweepstakes/",
-      "note": "Royal Caribbean Cruise Contest: Win a 7 Night Star… Prize: 3–5 night West Coast cruise for 2, interior stateroom, meals, onboard entertainment Ends: Jun 21/26 Who: USA (excl. Puerto Rico) & Canada (excl. QC), 21+ How: Follow @RoyalCaribbean, comment, tag 1 friend Entry Limit: Single entry Enter At: Enter at Royal Caribbean PLUS win a 3night cruise, see below Read More Canada Contests Sweepstakes Win a Cruise Contest Canada - Cruise Giveaways Win trips Angie B"
+      "note": "Royal Caribbean Cruise Contest: Win a 7 Night Star… Prize: 3–5 night West Coast cruise for 2, interior stateroom, meals, onboard entertainment Ends: Jun 21/26 Who: USA (excl. Puerto Rico) & Canada (excl. QC), 21+ How: Follow @RoyalCaribbean, comment, tag 1 friend Entry Limit: Single entry Enter At: Enter at Royal Caribbean PLUS win a 3night cruise, see below Read More Canada Contests Sweepstakes Win a Cruise Win trips Angie B"
     },
     {
       "id": "f8f1ae543421",
@@ -560,18 +573,6 @@
       "source": "Contest Canada",
       "url": "https://landingmail.com/subscribe/jhm8njbna31d",
       "note": "Daily Updates Get new contests delivered to your inbox every day. Never miss a giveaway. Subscribe Free Get the App 🍎 Coming soon to the App Store ▶ Get it on Google Play"
-    },
-    {
-      "id": "9fd54b2f4b12",
-      "title": "Thanks for the info. I updated the contest details...",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/07/win-a-4-night-trip-to-turks-caicos-with-flights-accommodations-cash-valued-at-5000/comment-page-1/#comment-1013542",
-      "note": "contestc said Thanks for the info. I updated the contest details..."
     },
     {
       "id": "b237627df4d9",
@@ -634,124 +635,124 @@
       "note": "Get the App 🍎 Coming soon to the App Store ▶ Get it on Google Play"
     },
     {
-      "id": "13e5634691d2",
-      "title": "Win $65,000 for a vehicle purchase",
+      "id": "4807c1d25419",
+      "title": "Win a 2-night trip to a Canadian Cirque du Soleil show with flights, hotel, cash & tickets valued at $5,000",
       "sponsor": "",
-      "prize": 134000.0,
-      "expiry": "December 15, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-65000-for-a-vehicle-purchase/",
-      "note": "September 18th, 2026 Win $65,000 for a vehicle purchase My Canadian friends, we have over $134,000 in new contest prizes in today’s update. Let’s get started, shall we? You’ll need a PIN# for this one from a Coors product. The prize is a $65,000 credit toward a vehicle purchase. Entry Frequency: unlimited Not open to: NU, YT, NT Expires: December 15, 2026 https://truck.coorsoriginal.ca/en?step=pin_entry"
-    },
-    {
-      "id": "e099c87a1dc4",
-      "title": "Win a Milwaukee Tool prize pack valued at $1,500",
-      "sponsor": "",
-      "prize": 1500.0,
+      "prize": 5000.0,
       "expiry": "December 31, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-milwaukee-tool-prize-pack-valued-at-1500-4/",
-      "note": "Win a Milwaukee Tool prize pack valued at $1,500 SK and MB residents, you can win yourself a prize pack from Milwaukee Tools valued at $1,500. Entry Frequency: single Open to: SK, MB Expires: December 31, 2026 https://forms.chryslercanada.ca/contests/winbigram/en/contest.php"
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-2-night-trip-to-a-canadian-cirque-du-soleil-show-with-flights-hotel-cash-tickets-valued-at-5000/",
+      "note": "Win a 2-night trip to a Canadian Cirque du Soleil show with flights, hotel, cash & tickets valued at $5,000 Here’s a chance to fly to a Canadian city to enjoy a Cirque du Soleil performance. It includes flights, hotel, cash and event tickets ($5,000 value). Entry Frequency: single Expires: December 31, 2026 https://www.cirquedusoleil.com/sun-life-contest-vip-canada"
     },
     {
-      "id": "cc0a01fea00c",
-      "title": "Win 1 of 3 3-night trips to London, England with flights, hotel, cash & McLaren event valued at $7,000 or 1 of 15 secondary prize packs",
+      "id": "0978ffd2235b",
+      "title": "Win 1 of 2 trips to Japan valued at $16,000",
+      "sponsor": "",
+      "prize": 80000.0,
+      "expiry": "December 4, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/19/win-1-of-2-trips-to-japan-valued-at-16000/",
+      "note": "September 19th, 2026 Win 1 of 2 trips to Japan valued at $16,000 We’ve got over $80,000 in new contest prizes today, including some amazing trips! Let’s start with a chance to win 1 of 2 trips to Japan, each valued at $16,000. A good start! Entry Frequency: single Expires: December 4, 2026 https://asahijapancontest.ca/"
+    },
+    {
+      "id": "f3c506f5412e",
+      "title": "Win a 1-night trip to any 2027 Mt Joys show with flights, hotel & tickets valued at $5,100 or 1 of 9 prize packs valued at $100",
+      "sponsor": "",
+      "prize": 5100.0,
+      "expiry": "March 31, 2027",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-1-night-trip-to-any-2027-mt-joys-show-with-flights-hotel-tickets-valued-at-5100-or-1-of-9-prize-packs-valued-at-100/",
+      "note": "Win a 1-night trip to any 2027 Mt Joys show with flights, hotel & tickets valued at $5,100 or 1 of 9 prize packs valued at $100 You can in a trip to any 2027 concert by the indie rock band Mt Joys. It includes flights, hotel, and tickets ($5,100 value). There are 9 secondary prizes of a Collective Arts prize pack worth $100. Entry Frequency: single Not open to: QC Expires: March 31, 2027 https://collectiveartscreativity.com/pages/mt-joy-contest"
+    },
+    {
+      "id": "dfd7c251f1d8",
+      "title": "Win a 1-night trip to Montreal, with flights, hotel & gift cards valued at $3,000",
+      "sponsor": "",
+      "prize": 3000.0,
+      "expiry": "October 1, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-1-night-trip-to-montreal-with-flights-hotel-gift-cards-valued-at-3000/",
+      "note": "Win a 1-night trip to Montreal, with flights, hotel & gift cards valued at $3,000 You can win a quick trip to Montreal that includes flights, hotel and some gift cards for a total value of $3,000. Entry Frequency: single Expires: October 1, 2026 https://www.bonlook.ca/pages/contest-page"
+    },
+    {
+      "id": "626cc1734b29",
+      "title": "Win a 5-night trip to The Philippines with flights & accommodations valued at $6,922",
+      "sponsor": "",
+      "prize": 6922.0,
+      "expiry": "October 15, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-5-night-trip-to-the-philippines-with-flights-accommodations-valued-at-6922/",
+      "note": "Win a 5-night trip to The Philippines with flights & accommodations valued at $6,922 If you ever get a chance to visit the Philippines, go! Palawan in particular is beautiful. And look, here’s a shot at winning a 5-night trip there, including flights and accommodations ($6,922 value). Entry Frequency: single Expires: October 15, 2026 https://philippinetourismusa.com/forgotten-island/"
+    },
+    {
+      "id": "701b35ac489b",
+      "title": "Win a 3-night trip to Mexico City, Mexico with flights, accommodations, cash & NFL tickets valued at $10,500",
+      "sponsor": "",
+      "prize": 10500.0,
+      "expiry": "October 29, 2026",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-3-night-trip-to-mexico-city-mexico-with-flights-accommodations-cash-nfl-tickets-valued-at-10500/",
+      "note": "Win a 3-night trip to Mexico City, Mexico with flights, accommodations, cash & NFL tickets valued at $10,500 Ontarians, burritos and football amirite? You can win a 3-night trip to Mexico City to attend an NFL game, including flights, hotel, cash and game tickets ($10,500 value). Entry Frequency: daily Open to: ON Expires: October 29, 2026 https://www.shopbeergear.ca/pages/shoeless-joes-bud-light-x-nfl-mexico-city-on-draw-pin-sep-2026"
+    },
+    {
+      "id": "20036d0e450e",
+      "title": "Win a 2-night trip to London, England with flights, hotel & Queen show tickets valued at $7,000",
       "sponsor": "",
       "prize": 7000.0,
-      "expiry": "November 9, 2026",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/17/win-1-of-3-3-night-trips-to-london-england-with-flights-hotel-cash-mclaren-event-valued-at-7000-or-1-of-15-secondary-prize-packs/",
-      "note": "Win 1 of 3 3-night trips to London, England with flights, hotel, cash & McLaren event valued at $7,000 or 1 of 15 secondary prize packs You’ll need a UPC to enter this one, such as 70847811190 You can win 1 of 3 trips to London, England to attend a McLaren racing event. It includes flights, hotel, cash and event passes ($7,000 value). There are 15 secondary prizes with a value of $153. Entry Frequency: daily UPC required Expires: November 9, 2026 https://games.circlek.com/ca/monster-mclaren-2026"
-    },
-    {
-      "id": "87e193cf5cac",
-      "title": "Win a 1-week accommodation package on a European river cruise valued at $29,700",
-      "sponsor": "",
-      "prize": 159000.0,
-      "expiry": "October 18, 2026",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/17/win-a-1-week-accommodation-package-on-a-european-river-cruise-valued-at-29700/",
-      "note": "September 17th, 2026 Win a 1-week accommodation package on a European river cruise valued at $29,700 Hi folks – over $159,000 in new prizes with today’s update! We’ll start with a contest from Global News, with a chance to win a 1-week European river cruise ($29,700 value). Entry Frequency: daily Not open to: QC Expires: October 18, 2026 https://promos.globalnews.ca/the-morning-show-emerald-cruises-contest/index.html"
-    },
-    {
-      "id": "19cc1393dbe9",
-      "title": "Win a set of tires valued at $2,000",
-      "sponsor": "",
-      "prize": 2000.0,
-      "expiry": "October 2, 2026",
+      "expiry": "September 23, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-set-of-tires-valued-at-2000/",
-      "note": "Win a set of tires valued at $2,000 AB, SK, and MB residents, you can win a new set of tires valued at $2,000. Entry Frequency: single Open to: AB, SK, MB Expires: October 2, 2026 https://www.shoptoyota.ca/prairie/en/tire-contest"
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-2-night-trip-to-london-england-with-flights-hotel-queen-show-tickets-valued-at-7000/",
+      "note": "Win a 2-night trip to London, England with flights, hotel & Queen show tickets valued at $7,000 You can win a quick trip to London, England and tickets to the premiere of the movie “Queen Budapest”, valued at $7,000. Entry Frequency: single Expires: September 23, 2026 https://forms.sonymusicfans.com/campaign/queen-budapest-flyaway-ticket-giveaway-2026-ca/"
     },
     {
-      "id": "45573830e757",
-      "title": "Win a 1-week accommodation package & tours in Argentina valued at $12,000",
+      "id": "18403a0f97fe",
+      "title": "Win a 1-night trip to Fort Lauderdale & 3-night Caribbean cruise with flights valued at $6,194",
       "sponsor": "",
-      "prize": 12000.0,
-      "expiry": "October 29, 2026",
+      "prize": 6194.0,
+      "expiry": "September 23, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-1-week-accommodation-package-tours-in-argentina-valued-at-12000/",
-      "note": "Win a 1-week accommodation package & tours in Argentina valued at $12,000 Ontarians, here’s a chance to win a 1-week trip to Argentina, including tours, valued at $12,000. Entry Frequency: single Open to: ON Expires: October 29, 2026 https://cmg.fifty-five-plus.com/victory-travel-and-events-contest/"
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-1-night-trip-to-fort-lauderdale-3-night-caribbean-cruise-with-flights-valued-at-6194/",
+      "note": "Win a 1-night trip to Fort Lauderdale & 3-night Caribbean cruise with flights valued at $6,194 Enter this Instagram contest from @royalcaribbean for a chance to win a 1-night trip to Florida and 3-night Caribbean cruise, including flights, valued at $6,194. Entry Frequency: single Not open to: QC Expires: September 23, 2026 https://www.instagram.com/p/Dc0-fJnm7u5/"
     },
     {
-      "id": "0d562fc77e83",
-      "title": "Win a $25 Apple eGift Card",
+      "id": "bb79053b3680",
+      "title": "Win a $50 Starbucks eGift Card",
       "sponsor": "",
-      "prize": 25.0,
-      "expiry": "September 24, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-25-apple-egift-card-11/",
-      "note": "Win a $25 Apple eGift Card Enter for a chance to win a $25 Apple egift card from Royal Draw. Good luck! Entry Frequency: single Expires: September 24, 2026 https://www.royaldraw.com/click?aff=contestcan&uri=aHR0cHM6Ly93d3cucm95YWxkcmF3LmNvbS9XSU4tYS0yNS1BcHBsZS1lR2lmdC1DYXJkLUQzNjUwNj9yY2FmaWQ9UFQxUlVFcHdXRlE9"
-    },
-    {
-      "id": "1e4769e7384d",
-      "title": "Win a set of tires valued at $1,000",
-      "sponsor": "",
-      "prize": 1000.0,
+      "prize": 50.0,
       "expiry": "September 25, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-set-of-tires-valued-at-1000/",
-      "note": "Win a set of tires valued at $1,000 Enter this contest from Wheel Wiz for a chance to win a new set of tires valued at $1,000. Entry Frequency: single Expires: September 25, 2026 https://wheelwiz.ca/pages/win-your-wheels-contest"
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-50-starbucks-egift-card-33/",
+      "note": "Win a $50 Starbucks eGift Card Enter for a chance to win a $50 Starbucks egift card from Royal Draw. Good luck! Entry Frequency: single Expires: September 25, 2026 https://www.royaldraw.com/click?aff=contestcan&uri=aHR0cHM6Ly93d3cucm95YWxkcmF3LmNvbS9XSU4tYS01MC1TdGFyYnVja3MtZUdpZnQtQ2FyZC1EMzY1MDc/cmNhZmlkPVBUMVJVRXB3V0ZRPQ=="
     },
     {
-      "id": "f5c33d027cc0",
-      "title": "Win a Mitsubishi heat pump with installation valued at $5,600",
+      "id": "71fa46ec43c4",
+      "title": "Win a 1-week all-inclusive trip to Puerto Vallarta, Mexico valued at $5,890",
       "sponsor": "",
-      "prize": 5600.0,
-      "expiry": "September 26, 2026",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-mitsubishi-heat-pump-with-installation-valued-at-5600/",
-      "note": "Win a Mitsubishi heat pump with installation valued at $5,600 NB, NS, and PEI residents, you can win a Mitsubishi heat pump, installed, valued at $5,600. Love my Mitsubishi heat pump. Entry Frequency: daily Expires: September 26, 2026 https://www.ctvnews.ca/atlantic/contest-seven/"
-    },
-    {
-      "id": "e74e7e28418c",
-      "title": "Win a 2025 Harley Davidson motorcycle valued at $25,000 or 1 of 17 Harley shopping sprees valued at $500-$750",
-      "sponsor": "",
-      "prize": 25000.0,
+      "prize": 5890.0,
       "expiry": "September 30, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/18/win-a-2025-harley-davidson-motorcycle-valued-at-25000-or-1-of-17-harley-shopping-sprees-valued-at-500-750/",
-      "note": "Win a 2025 Harley Davidson motorcycle valued at $25,000 or 1 of 17 Harley shopping sprees valued at $500-$750 Anyone want a Harley? You can enter by scanning QR codes at Harley Davidson stores, or use the free email entry. Up to 18 entries per person. Note: each email entry counts as 2 entries. The big prize is a Harley motorcycle valued at $25,000 or you could win 1 of 17 shopping sprees valued between $500-750. Entry Frequency: Up to 18 entries Expires: September 30, 2026 https://events.h-dpro"
+      "url": "https://www.contestcanada.net/2026/09/19/win-a-1-week-all-inclusive-trip-to-puerto-vallarta-mexico-valued-at-5890-2/",
+      "note": "Win a 1-week all-inclusive trip to Puerto Vallarta, Mexico valued at $5,890 Here’s a chance to win a 1-week all-inclusive getaway to Puerto Vallerta, Mexico ($5,890 value). Vamos! Entry Frequency: single Expires: September 30, 2026 https://www.sunwing.ca/en/partner-of-the-month"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
-  "updated_at": null,
-  "sources_checked": [],
-  "errors": [],
-  "contests": []
+  "updated_at": "2026-09-19T16:09:34.403686+00:00",
+  "sources_checked": [
+    "Contest Girl"
+  ],
+  "errors": [
+    "Daily Contests Canada: Blocked by robots.txt or robots.txt could not be checked.",
+    "Contest Scoop: Blocked by robots.txt or robots.txt could not be checked.",
+    "Contest Canada: Blocked by robots.txt or robots.txt could not be checked."
+  ],
+  "contests": [
+    {
+      "id": "89187f52dbe4",
+      "title": "Sorted by Posted Date",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Girl",
+      "url": "https://www.contestgirl.com/contests/contests.pl?ar=na&b=nb&c=ca&f=d&s=_&sort=p#",
+      "note": "Sorted by Posted Date Sort by Expiry Date Sort by Most Valuable Sort by Most Popular Sort by Most Comments"
+    }
+  ]
 }

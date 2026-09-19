@@ -1,8 +1,9 @@
 import json
 import re
 import time
+import hashlib
 from datetime import datetime, timezone
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
 import requests
@@ -34,30 +35,67 @@ SOURCES = [
 ]
 
 
-def allowed_by_robots(url):
+def clean_text(value):
+    return re.sub(r"\s+", " ", value or "").strip()
+
+
+def robots_allowed(url):
+    """
+    Respect robots.txt when it is available.
+
+    200 = read and obey the rules.
+    404 = no robots.txt exists, so continue.
+    Other errors = fail closed and skip that source.
+    """
+
+    parsed = urlparse(url)
+    robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
+
     try:
-        from urllib.parse import urlparse
+        response = requests.get(
+            robots_url,
+            headers={"User-Agent": USER_AGENT},
+            timeout=15,
+        )
 
-        parsed = urlparse(url)
-        robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
+        if response.status_code == 404:
+            print(f"  robots.txt not found; continuing with conservative request rate.")
+            return True
 
-        rp = RobotFileParser()
-        rp.set_url(robots_url)
-        rp.read()
+        if response.status_code != 200:
+            print(
+                f"  robots.txt returned HTTP {response.status_code}; "
+                f"skipping source."
+            )
+            return False
 
-        return rp.can_fetch(USER_AGENT, url)
+        parser = RobotFileParser()
+        parser.parse(response.text.splitlines())
 
-    except Exception:
+        allowed = parser.can_fetch(USER_AGENT, url)
+
+        if not allowed:
+            print("  robots.txt disallows this collector.")
+            return False
+
+        return True
+
+    except requests.RequestException as exc:
+        print(f"  Could not retrieve robots.txt: {exc}")
+        print("  Skipping source to avoid ignoring an unknown robots policy.")
         return False
 
 
 def fetch_page(url):
-    if not allowed_by_robots(url):
-        raise RuntimeError("Blocked by robots.txt or robots.txt could not be checked.")
+    if not robots_allowed(url):
+        raise RuntimeError(
+            "Source was skipped because robots.txt could not be safely verified."
+        )
 
     headers = {
         "User-Agent": USER_AGENT,
         "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "en-CA,en;q=0.9",
     }
 
     response = requests.get(
@@ -71,23 +109,20 @@ def fetch_page(url):
     return response.text
 
 
-def clean_text(value):
-    return re.sub(r"\s+", " ", value or "").strip()
-
-
 def parse_prize(text):
-    matches = re.findall(
-        r"\$\s?([\d,]+(?:\.\d{2})?)",
-        text,
-    )
-
     values = []
 
-    for value in matches:
-        try:
-            values.append(float(value.replace(",", "")))
-        except ValueError:
-            pass
+    patterns = [
+        r"\$\s?([\d,]+(?:\.\d{2})?)",
+        r"([\d,]+)\s*dollars?",
+    ]
+
+    for pattern in patterns:
+        for value in re.findall(pattern, text, re.I):
+            try:
+                values.append(float(value.replace(",", "")))
+            except ValueError:
+                pass
 
     return max(values) if values else 0
 
@@ -111,7 +146,7 @@ def parse_expiry(text):
 def guess_frequency(text):
     lower = text.lower()
 
-    if any(word in lower for word in [
+    if any(x in lower for x in [
         "daily",
         "every day",
         "once per day",
@@ -119,14 +154,14 @@ def guess_frequency(text):
     ]):
         return "Daily"
 
-    if any(word in lower for word in [
+    if any(x in lower for x in [
         "weekly",
         "every week",
         "once per week",
     ]):
         return "Weekly"
 
-    if any(word in lower for word in [
+    if any(x in lower for x in [
         "monthly",
         "every month",
         "once per month",
@@ -148,10 +183,16 @@ def guess_eligibility(text):
     return "Canada"
 
 
+def make_id(title, url):
+    value = (title.lower().strip() + "|" + url.lower()).encode("utf-8")
+    return hashlib.sha1(value).hexdigest()[:12]
+
+
 def extract_items(source_name, source_url, html):
     soup = BeautifulSoup(html, "html.parser")
 
     results = []
+    seen = set()
 
     selectors = [
         "article",
@@ -159,7 +200,9 @@ def extract_items(source_name, source_url, html):
         ".contest-item",
         ".contest-entry",
         ".contest-card",
+        ".contest-listing",
         ".post",
+        ".entry",
         "li",
     ]
 
@@ -168,17 +211,35 @@ def extract_items(source_name, source_url, html):
     for selector in selectors:
         candidates.extend(soup.select(selector))
 
-    seen = set()
+    # Also inspect headings with nearby links.
+    for heading in soup.find_all(["h1", "h2", "h3", "h4"]):
+        parent = heading.parent
+
+        if parent:
+            candidates.append(parent)
 
     for item in candidates:
         text = clean_text(item.get_text(" ", strip=True))
 
-        if len(text) < 30:
+        if len(text) < 25:
             continue
 
-        link = item.find("a", href=True)
+        links = item.find_all("a", href=True)
 
-        if not link:
+        if not links:
+            continue
+
+        # Find the most useful-looking link.
+        link = None
+
+        for candidate in links:
+            candidate_text = clean_text(candidate.get_text(" ", strip=True))
+
+            if len(candidate_text) >= 5:
+                link = candidate
+                break
+
+        if link is None:
             continue
 
         title = clean_text(link.get_text(" ", strip=True))
@@ -192,32 +253,48 @@ def extract_items(source_name, source_url, html):
         if len(title) < 5:
             continue
 
+        lower_title = title.lower()
+
+        # Ignore navigation/general website links.
+        ignored = [
+            "home",
+            "contact",
+            "about",
+            "privacy",
+            "terms",
+            "login",
+            "register",
+            "facebook",
+            "instagram",
+            "twitter",
+            "next",
+            "previous",
+        ]
+
+        if lower_title in ignored:
+            continue
+
         url = urljoin(source_url, link["href"])
 
-        key = (title.lower(), url)
+        key = (title.lower(), url.lower())
 
         if key in seen:
             continue
 
         seen.add(key)
 
-        prize = parse_prize(text)
-        expiry = parse_expiry(text)
-        frequency = guess_frequency(text)
-        eligibility = guess_eligibility(text)
-
         results.append(
             {
-                "id": "",
+                "id": make_id(title, url),
                 "title": title,
                 "sponsor": "",
-                "prize": prize,
-                "expiry": expiry,
-                "frequency": frequency,
-                "eligibility": eligibility,
+                "prize": parse_prize(text),
+                "expiry": parse_expiry(text),
+                "frequency": guess_frequency(text),
+                "eligibility": guess_eligibility(text),
                 "source": source_name,
                 "url": url,
-                "note": text[:400],
+                "note": text[:500],
             }
         )
 
@@ -230,14 +307,6 @@ def normalize_title(title):
     return re.sub(r"\s+", " ", title).strip()
 
 
-def make_id(title, url):
-    value = normalize_title(title) + "|" + url.lower()
-
-    import hashlib
-
-    return hashlib.sha1(value.encode("utf-8")).hexdigest()[:12]
-
-
 def deduplicate(contests):
     combined = {}
 
@@ -248,51 +317,45 @@ def deduplicate(contests):
             continue
 
         if key not in combined:
-            contest["id"] = make_id(
-                contest["title"],
-                contest["url"],
-            )
             combined[key] = contest
+            continue
 
-        else:
-            existing = combined[key]
+        existing = combined[key]
 
-            sources = set(
-                s.strip()
-                for s in existing.get("source", "").split(",")
-                if s.strip()
-            )
+        sources = set(
+            s.strip()
+            for s in existing.get("source", "").split(",")
+            if s.strip()
+        )
 
-            sources.add(contest["source"])
+        sources.add(contest["source"])
 
-            existing["source"] = ", ".join(sorted(sources))
+        existing["source"] = ", ".join(sorted(sources))
 
-            if not existing.get("url") and contest.get("url"):
-                existing["url"] = contest["url"]
+        if contest.get("prize", 0) > existing.get("prize", 0):
+            existing["prize"] = contest["prize"]
 
-            if contest.get("prize", 0) > existing.get("prize", 0):
-                existing["prize"] = contest["prize"]
-
-            if not existing.get("expiry") and contest.get("expiry"):
-                existing["expiry"] = contest["expiry"]
+        if not existing.get("expiry") and contest.get("expiry"):
+            existing["expiry"] = contest["expiry"]
 
     return list(combined.values())
 
 
 def sort_contests(contests):
     def expiry_key(contest):
-        value = contest.get("expiry", "")
+        expiry = contest.get("expiry", "")
 
-        if not value:
+        if not expiry:
             return "9999-99-99"
 
-        return value
+        return expiry
 
     return sorted(
         contests,
         key=lambda contest: (
             expiry_key(contest),
             -float(contest.get("prize", 0)),
+            contest.get("title", "").lower(),
         ),
     )
 
@@ -317,17 +380,16 @@ def main():
             print(f"  Found {len(contests)} possible listings.")
 
             all_contests.extend(contests)
-
             sources_checked.append(source["name"])
 
         except Exception as exc:
             message = f"{source['name']}: {exc}"
 
-            print("  ERROR:", message)
-
+            print(f"  ERROR: {message}")
             errors.append(message)
 
-        time.sleep(2)
+        # Conservative rate limiting.
+        time.sleep(3)
 
     contests = deduplicate(all_contests)
     contests = sort_contests(contests)

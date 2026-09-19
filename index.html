@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17324d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.json">
+<title>Contest Hub</title>
+<style>
+:root{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#142331;background:#eef3f7}
+*{box-sizing:border-box}body{margin:0}.app{max-width:760px;margin:auto;min-height:100vh;background:#eef3f7}
+.top{position:sticky;top:0;z-index:5;background:#17324d;color:#fff;padding:18px 16px 14px;box-shadow:0 2px 10px #0003}
+.topline{display:flex;justify-content:space-between;align-items:center;gap:10px}h1{margin:0;font-size:25px}.sub{opacity:.8;font-size:13px;margin-top:3px}
+.refresh{background:#ffffff1c;border:1px solid #ffffff44;color:#fff;border-radius:12px;padding:9px 12px}
+.filters{padding:10px 12px 4px;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+input,select{width:100%;padding:11px;border:1px solid #ccd6df;border-radius:12px;background:#fff;font:inherit}
+.stats{display:flex;gap:8px;padding:8px 12px;overflow:auto}.stat{background:#fff;border-radius:14px;padding:9px 13px;min-width:100px;box-shadow:0 2px 7px #0001}.stat b{display:block;font-size:20px}
+.feed{padding:4px 12px 80px}.card{background:#fff;border-radius:17px;margin:9px 0;padding:14px;box-shadow:0 2px 8px #0001}
+.cardtop{display:flex;justify-content:space-between;gap:12px}.title{font-weight:750;font-size:16px;line-height:1.25}.prize{font-size:19px;font-weight:800;white-space:nowrap}
+.badges{margin-top:7px}.badge{display:inline-block;background:#e7f0f7;border-radius:999px;padding:4px 8px;margin:3px 4px 0 0;font-size:11px}
+.meta{font-size:13px;color:#5d6a74;margin-top:8px}.note{font-size:12px;color:#6c7881;margin-top:6px}
+.actions{display:flex;gap:7px;margin-top:12px}.actions a,.actions button{flex:1;text-align:center;text-decoration:none;border-radius:11px;padding:10px;border:1px solid #ccd6df;background:#fff;font:inherit}
+.actions .open{background:#17324d;color:#fff;border-color:#17324d}.actions .entered{background:#e6f5e9;border-color:#9bd0a5}
+.install{position:fixed;bottom:14px;left:50%;transform:translateX(-50%);background:#17324d;color:#fff;border:0;border-radius:12px;padding:10px 18px;box-shadow:0 3px 12px #0003}
+.empty{text-align:center;padding:40px;color:#687681}
+@media(min-width:760px){.install{position:static;display:block;margin:0 auto 20px;transform:none}}
+</style>
+</head>
+<body><div class="app">
+<header class="top"><div class="topline"><div><h1>🎯 Contest Hub</h1><div class="sub">Your personal Canadian contest dashboard</div></div><button class="refresh" onclick="refreshFeed()">↻ Refresh</button></div></header>
+<section class="filters">
+<input id="q" placeholder="Search contests…">
+<select id="elig"><option value="">🇨🇦 All Canada</option><option value="Ontario">🍁 Ontario</option></select>
+<select id="freq"><option value="">All entry types</option><option value="Daily">Daily</option><option value="Single">Single entry</option></select>
+<select id="sort"><option value="expiry">Ending soon</option><option value="prize">Largest prize</option><option value="source">Source</option></select>
+</section>
+<section class="stats"><div class="stat"><b id="count">0</b>shown</div><div class="stat"><b id="entered">0</b>entered</div><div class="stat"><b id="big">0</b>$1,000+</div></section>
+<main id="feed" class="feed"></main>
+<button id="install" class="install" style="display:none">📱 Install Contest Hub</button>
+</div>
+<script>
+let contests=[], entered=JSON.parse(localStorage.getItem("contestEntered")||"{}"), deferred;
+const $=id=>document.getElementById(id);
+function esc(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+function days(d){let n=Math.ceil((new Date(d+"T23:59:59")-new Date())/86400000);return n<0?"Expired":n===0?"Ends today":n+" days left"}
+function key(c){return btoa(unescape(encodeURIComponent(c.title+c.source))).replace(/=/g,"")}
+function render(){
+ let q=$("q").value.toLowerCase(),e=$("elig").value,f=$("freq").value;
+ let a=contests.filter(c=>(!q||JSON.stringify(c).toLowerCase().includes(q))&&(!e||c.eligibility.includes(e))&&(!f||c.frequency.toLowerCase().includes(f.toLowerCase())));
+ let s=$("sort").value;a.sort((x,y)=>s==="prize"?y.prize-x.prize:s==="source"?x.source.localeCompare(y.source):x.expiry.localeCompare(y.expiry));
+ $("count").textContent=a.length;$("entered").textContent=Object.keys(entered).length;$("big").textContent=a.filter(c=>c.prize>=1000).length;
+ $("feed").innerHTML=a.length?a.map(c=>{let k=key(c),yes=!!entered[k];return `<article class="card"><div class="cardtop"><div><div class="title">${esc(c.title)}</div><div class="badges"><span class="badge">${esc(c.source)}</span><span class="badge">${esc(c.eligibility)}</span><span class="badge">${esc(c.frequency)}</span></div></div><div class="prize">${c.prize?"$"+c.prize.toLocaleString():"Prize"}</div></div><div class="meta">⏳ ${days(c.expiry)} · closes ${c.expiry}</div><div class="note">${esc(c.note)}</div><div class="actions"><a class="open" target="_blank" href="${esc(c.url)}">Open contest</a><button class="${yes?"entered":""}" onclick="toggle('${k}')">${yes?"✓ Entered":"Mark entered"}</button></div></article>`}).join(""):'<div class="empty">No matching contests.</div>';
+}
+function toggle(k){if(entered[k])delete entered[k];else entered[k]=new Date().toISOString();localStorage.setItem("contestEntered",JSON.stringify(entered));render()}
+async function load(){try{contests=await fetch("contests.json",{cache:"no-store"}).then(r=>r.json())}catch(e){contests=[]}render()}
+function refreshFeed(){load();alert("Contest feed refreshed from contests.json.")}
+window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferred=e;$("install").style.display="block"});
+$("install").onclick=async()=>{if(deferred){deferred.prompt();await deferred.userChoice;deferred=null;$("install").style.display="none"}else alert("Use your browser menu and choose Add to Home screen.")};
+["q","elig","freq","sort"].forEach(id=>$(id).addEventListener("input",render));
+if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+load();
+</script></body></html>

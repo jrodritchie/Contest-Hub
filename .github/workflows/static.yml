@@ -25,6 +25,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+              - name: Show site files
+        run: |
+          echo "Files being prepared for Pages:"
+          find . -maxdepth 2 -type f -not -path './.git/*' | sort
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

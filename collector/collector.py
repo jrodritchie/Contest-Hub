@@ -32,8 +32,11 @@ SOURCES = [
         "name": "Contest Canada",
         "url": "https://www.contestcanada.net/",
     },
+{
+    "name": "Gleam",
+    "url": "https://gleam.io/giveaways"
+},
 ]
-
 
 def clean_text(value):
     return re.sub(r"\s+", " ", value or "").strip()

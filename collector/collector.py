@@ -32,9 +32,8 @@ SOURCES = [
         "name": "Contest Canada",
         "url": "https://www.contestcanada.net/",
     },
-{
-    "name": "Gleam",
-    "url": "https://gleam.io/giveaways"
+    {"name": "Gleam",
+    "url": "https://gleamgiveaways.com/giveaways/platform/gleam/"
 },
 ]
 

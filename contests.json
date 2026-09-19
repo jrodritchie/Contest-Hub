@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-19T20:17:54.976162+00:00",
+  "updated_at": "2026-09-19T20:29:43.255176+00:00",
   "sources_checked": [
-    "Contest Girl",
     "Contest Scoop",
-    "Contest Canada"
+    "Contest Canada",
+    "Gleam"
   ],
   "errors": [
-    "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/",
-    "Gleam: 403 Client Error: Forbidden for url: https://gleam.io/giveaways"
+    "Contest Girl: Source was skipped because robots.txt could not be safely verified.",
+    "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/"
   ],
   "contests": [
     {
@@ -191,6 +191,18 @@
       "note": "Dole Canada Contest: Win Dole prize pack, $50 –… Prize: Dole prize pack, $50 Ends: Sep 30/26, 11:59 PM ET Who: Canada excluding QC How: Follow + comment; tag friends/share for bonus entries Entry limit: Not specified Enter at: Visit Dole Canada Read More Canada Contests Instagram Win Prize Packs Angie B"
     },
     {
+      "id": "b951b586e4ac",
+      "title": "Gleam Giveaways",
+      "sponsor": "",
+      "prize": 50.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/gleam-giveaways/",
+      "note": "Popular Gleam Giveaways Giveaway Secret Codes Win Free Gift Cards Win Free Cash Win a Free Vacation Giveaways Under $50 Browse by Platform Gleam SweepWidget KingSumo ViralSweep"
+    },
+    {
       "id": "bd38705841e1",
       "title": "Villa Ravioli Contest: Win $50 in Pasta Products",
       "sponsor": "",
@@ -239,6 +251,18 @@
       "note": "About & Guidelines Contact us"
     },
     {
+      "id": "79d3a1c59e1e",
+      "title": "All Giveaways",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/",
+      "note": "Quick Links All Giveaways Submit a Giveaway Get Giveaway Alerts Privacy Policy"
+    },
+    {
       "id": "32aa26c47a1c",
       "title": "Are you sure? The contest landing page has this te...",
       "sponsor": "",
@@ -261,6 +285,30 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/canadian-contests/",
       "note": "Canadian Contests Quebec Concours Sweepstakes US"
+    },
+    {
+      "id": "bdcfebc2785d",
+      "title": "Cash & Gift Cards",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/cash-and-gift-cards/",
+      "note": "Browse by Category Cash & Gift Cards Concerts & Live Entertainment Electronics & Gadgets Food & Beverage Gaming Home, Furniture & Appliances Miscellaneous Movies, Music & Books Sports, Fitness & Outdoors Travel & Leisure View all 24 categories →"
+    },
+    {
+      "id": "76a153c2578b",
+      "title": "Categories Expand",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/categories/",
+      "note": "Categories Expand Cash & Valuables 💵 Cash & Gift Cards 💍 Jewelry & Watches 🪙 Gold & Precious Metals ⛓️ Crypto Tech & Gaming 💻 Electronics & Gadgets 🎮 Gaming 📷 Photography & Cameras Home & Hobbies 🏠 Home, Furniture & Appliances 🔧 Tools & Hardware 🪴 Patio & Garden 🎨 Arts & Crafts Fashion & Beauty 💄 Health & Beauty 👕 Clothing, Shoes & Accessories Entertainment 🎬 Movies, Music & Books 🎤 Concerts & Live Entertainment 🎸 Musical Instruments & Gear Sports & Travel 🏆 Sports, Fitness & Outdoors ✈️ Travel "
     },
     {
       "id": "dbe2dee62b24",
@@ -479,6 +527,30 @@
       "note": "PC Optimum Grand Scan Contest: Win 5000,000 Optimum Points Prize: 100, 500, 2,000, 10,000 or 500,000 PC Optimum points with eligible purchase Ends: Sep 30/26 Who: Canada, age 14+ How: Login & spin Entry limit: 1 entry/week Enter at: Visit PC Optimum Read More Canada Contests Weekly Contests Angie B"
     },
     {
+      "id": "20717335ae5e",
+      "title": "Platforms",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/platform/gleam/#",
+      "note": "Platforms Toggle child menu Expand 💎 Gleam 🧩 SweepWidget 🌀 ViralSweep 📦 Woobox 👑 KingSumo 🎧 Tunespeak 📰 Second Street 🎁 Other"
+    },
+    {
+      "id": "90c39eda2976",
+      "title": "Platforms Expand",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/platform/gleam/#",
+      "note": "Platforms Expand 💎 Gleam 🧩 SweepWidget 🌀 ViralSweep 📦 Woobox 👑 KingSumo 🎧 Tunespeak 📰 Second Street 🎁 Other"
+    },
+    {
       "id": "2d95b034883c",
       "title": "Privacy Policy & Disclosure",
       "sponsor": "",
@@ -551,18 +623,6 @@
       "note": "Connie said Sept 10 – codewords I was able to get today..."
     },
     {
-      "id": "89187f52dbe4",
-      "title": "Sorted by Posted Date",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Girl",
-      "url": "https://www.contestgirl.com/contests/contests.pl?ar=na&b=nb&c=ca&f=d&s=_&sort=p#",
-      "note": "Sorted by Posted Date Sort by Expiry Date Sort by Most Valuable Sort by Most Popular Sort by Most Comments"
-    },
-    {
       "id": "e2651bf1cc8c",
       "title": "Subscribe Free",
       "sponsor": "",
@@ -633,6 +693,90 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/#",
       "note": "Get the App 🍎 Coming soon to the App Store ▶ Get it on Google Play"
+    },
+    {
+      "id": "7015012ce7e2",
+      "title": "🎤 Concerts & Live Entertainment",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/concerts-and-events/",
+      "note": "🎤 Concerts & Live Entertainment"
+    },
+    {
+      "id": "b6db1a10dc0d",
+      "title": "🎸 Musical Instruments & Gear",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/musical-instruments/",
+      "note": "🎸 Musical Instruments & Gear"
+    },
+    {
+      "id": "394cb7e8a094",
+      "title": "🏆 Sports, Fitness & Outdoors",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/sports-and-outdoors/",
+      "note": "🏆 Sports, Fitness & Outdoors"
+    },
+    {
+      "id": "521a21ae4de7",
+      "title": "🏠 Home, Furniture & Appliances",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/home-and-furniture/",
+      "note": "🏠 Home, Furniture & Appliances"
+    },
+    {
+      "id": "3b64ed8c9a50",
+      "title": "👕 Clothing, Shoes & Accessories",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/clothing-and-accessories/",
+      "note": "👕 Clothing, Shoes & Accessories"
+    },
+    {
+      "id": "7d8accdb55fa",
+      "title": "🚗 Automotive, Motorcycles & Boats",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/auto/",
+      "note": "🚗 Automotive, Motorcycles & Boats"
+    },
+    {
+      "id": "41e7c7db088d",
+      "title": "🧸 Toys, Games & Collectibles",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Gleam",
+      "url": "https://gleamgiveaways.com/giveaways/category/toys-and-collectibles/",
+      "note": "🧸 Toys, Games & Collectibles"
     },
     {
       "id": "4807c1d25419",

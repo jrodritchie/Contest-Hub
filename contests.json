@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T13:16:43.735629+00:00",
+  "updated_at": "2026-09-23T13:17:37.913237+00:00",
   "sources_checked": [
     "Contest Girl",
     "Contest Scoop",
@@ -11,6 +11,30 @@
   ],
   "contests": [
     {
+      "id": "82bf5a5a3ec0",
+      "title": "Circle K Bodyarmor Contest: Win a $35,000 “BODYARMOR VIP…",
+      "sponsor": "",
+      "prize": 35000.0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/circle-k-bodyarmor-contest/",
+      "note": "Circle K Bodyarmor Contest: Win a $35,000 “BODYARMOR VIP… Prize: $35,000 BODYARMOR VIP Sports Bundle: $6,000 airline voucher, $5,000 transportation card, $6,000 hotel card, $2,500 sporting goods card, $7,500 prepaid card, $5,000 event ticket card, signed Connor McDavid jersey and signed puck Ends: Nov 9/26 Who: Canada, age of majority How: Purchase 2+ participating BODYARMOR 473 mL + submit mobile number at Circle K; or mail-in essay Entry limit: 1 entry/day Enter at: Enter at BODYARMOR Read Mor"
+    },
+    {
+      "id": "cc0ca633542b",
+      "title": "Pack More than Lunches Contest: Win $15,000 Cash with…",
+      "sponsor": "",
+      "prize": 15000.0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/pack-more-than-lunches-contest/",
+      "note": "Pack More than Lunches Contest: Win $15,000 Cash with… Prize: $15,000 Ends: Sep 27/26 Who: Canada, age of majority How: Purchase participating product + upload receipt; 100-word essay no-purchase entry Entry limit: 10/household Enter at: Enter at Lactalis Canada Read More Back to School Giveaways Canada Contests Daily Entry Win Cash Angie B"
+    },
+    {
       "id": "6141b544e0de",
       "title": "WheelofFortune Contests: Win Rockies to Red Rocks Trip, Cash…",
       "sponsor": "",
@@ -21,6 +45,18 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/wheel-of-fortune-sweepstakes/",
       "note": "WheelofFortune Contests: Win Rockies to Red Rocks Trip, Cash… Prize: 5-day/4-night Rockies to Red Rocks trip for 2; 3-day Premier rail journey; hotels; round-trip airfare; national park tours; onboard meals; US$10,900 ARV Ends: Oct 10/26 Who: Canada excluding QC, age of majority How: Join/login to Wheel Watchers Club and select episode Entry limit: 5 total Enter at: Enter at Wheel of Fortune Read More Canada Contests Play to Win Sweepstakes Win Cash KIM"
+    },
+    {
+      "id": "5a9228132164",
+      "title": "Crave Canada Contest: Win $10,000 Voyages Satellite Trip",
+      "sponsor": "",
+      "prize": 10000.0,
+      "expiry": "",
+      "frequency": "Weekly",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/crave-canada-giveaway/",
+      "note": "Crave Canada Contest: Win $10,000 Voyages Satellite Trip Prize: $10,000 travel cheque redeemable at Voyages Satellite Ends: Nov 14/26 Who: QC, age of majority How: Register, complete form, answer weekly question Entry limit: 1 entry/week Enter at: Visit Pepito Sangria Read More Canada Contests Single Entry Win Cash Win trips Angie B"
     },
     {
       "id": "1d1c1fb85d50",
@@ -35,42 +71,6 @@
       "note": "Toronto Newstalk 1010 Contests: Win Car Full of Cash… Prize: 2026 Nissan Sentra SV Premium + $10,000; 28 event invitations Ends: Oct 29/26 Who: ON, age 18+ How: Listen for keywords, submit keyword online Entry limit: 1 entry/keyword; 21/day Enter at: Enter at NEWSTALK 1010 Read More Canada Contests Daily Entry Radio Contests Win Cash Win trips Angie B"
     },
     {
-      "id": "e049ceef3c00",
-      "title": "680 City NEWS Contests: Win Weather Guarantee Cash Jackpot",
-      "sponsor": "",
-      "prize": 7700.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/680-news-contests/",
-      "note": "680 City NEWS Contests: Win Weather Guarantee Cash Jackpot Prize: 680 NewsRadio Weather Guarantee jackpot; current $7,700 Ends: Ongoing Who: ON, age of majority; terrestrial 680 NewsRadio access required How: Submit online entry form Entry limit: 1 entry/hour Enter at: Visit 680 NewsRadio Read More Canada Contests Win Cash Angie B"
-    },
-    {
-      "id": "ff9bc4ae5f59",
-      "title": "Cirque du Soleil Giveaway: Win VIP tickets & Trip…",
-      "sponsor": "",
-      "prize": 5750.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/cirque-du-soleil-canada-contests/",
-      "note": "Cirque du Soleil Giveaway: Win VIP tickets & Trip… Prize: 2 VIP Cirque du Soleil tickets; round-trip flights for 2; 2-night hotel stay; $500 prepaid gift card; approx. $5,750 total Ends: Dec 31/26 Who: Canada, age of majority How: Submit online entry form Entry limit: Single entry Enter: Enter at Cirque du Soleil Read More Canada Contests Win Prize Packs Win trips KIM"
-    },
-    {
-      "id": "8ec99094e26e",
-      "title": "1005 Fresh Radio CA Contest: Win Olivia Rodrigo Concert…",
-      "sponsor": "",
-      "prize": 4900.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/1005freshradio-ca-contests/",
-      "note": "1005 Fresh Radio CA Contest: Win Olivia Rodrigo Concert… Prize: Trip for 2 to Montreal, 3-night hotel stay, round-trip airfare, 2 Olivia Rodrigo concert tickets; $4,900 CAD Ends: Oct 2/26 Who: ON, age of majority How: Listen for code word, submit online form Entry limit: 1 entry/code word Enter at: Enter at Fresh 100.5 Read More Canada Contests Daily Entry Radio Contests Win Cash Angie B"
-    },
-    {
       "id": "97483b28a362",
       "title": "Avion Rewards Contest: Win $2,000 Ticketmaster Canada e-gift cards",
       "sponsor": "",
@@ -81,18 +81,6 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/avion-rewards-contest/",
       "note": "Avion Rewards Contest: Win $2,000 Ticketmaster Canada e-gift cards Prize: 3 x $2,000 Ticketmaster e-gift card packages; each = 2 x $1,000 cards Ends: Oct 26/26 Who: Canada, age 18+ How: Join Avion Rewards + submit form OR alternate entry form Entry limit: 1 entry/day, max 78 Enter at: Visit Royal Bank of Canada Read More Canada Contests Single Entry Win Gift Cards Angie B"
-    },
-    {
-      "id": "a2489315b90b",
-      "title": "Peace Tea Contest: Win an Aruba Vacation or Back-to-School…",
-      "sponsor": "",
-      "prize": 1160.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/peace-tea-canada-contest/",
-      "note": "Peace Tea Contest: Win an Aruba Vacation or Back-to-School… Prize: Grand Prize: 5-day/4-night Aruba trip for 4, round-trip airfare, resort stay, meals, transfers & $1,160 prepaid card. First Prizes (15): $500 digital gift card + backpack, 40 oz tumbler & portable charger. Ends: Oct 31/26 Who: Canada, 18+ How: Login or create a Coca-Cola account and submit an entry. Entry Limit: 1 entry/day. Enter at: Enter at Coca-Cola Read More Back to School Giveaways Canada Contests Daily Entry Win Cash Win G"
     },
     {
       "id": "890b5d0e7b9b",
@@ -107,18 +95,6 @@
       "note": "Today’s Quick Links Travel Contests Download the app! Win $1,000!"
     },
     {
-      "id": "54adb2d55c3d",
-      "title": "Travis Mathews Contest: Win Trip to F1 Las Vegas…",
-      "sponsor": "",
-      "prize": 1000.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/travis-mathews-giveaway-contest/",
-      "note": "Travis Mathews Contest: Win Trip to F1 Las Vegas… Prize: Las Vegas trip for 2, $1,000 TravisMathew credit, airfare, 3-night hotel, golf for 2, $500 dinner credit, 2 F1 Paddock Pass Tickets Ends: Oct 7/26 Who: Canada except QC, US, UK, age 18+ and age of majority How: Submit online form, TM Rewards entry, or mail-in entry Entry limit: Single entry Enter at: Visit TravisMathew Read More Canada Contests Sweepstakes Win Shopping Sprees Win trips Angie B"
-    },
-    {
       "id": "2d49541aee6e",
       "title": "Foodism Toronto Contest: Win Overnight Stay and Dinner at…",
       "sponsor": "",
@@ -129,6 +105,18 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/foodism-toronto-contest/",
       "note": "Foodism Toronto Contest: Win Overnight Stay and Dinner at… Prize: 1-night stay at Friday Harbour Resort + $400 Lake Club Restaurant dining credit; $900+ total Ends: Oct 18/26 Who: ON, age 19+ How: Answer contest question Entry limit: Single entry Enter at: Visit Foodism CA Read More Canada Contests Win Gift Cards Win trips Angie B"
+    },
+    {
+      "id": "d572edb47910",
+      "title": "Ricardo Cuisine Contest: Win a Coffee Machine, year’s worth…",
+      "sponsor": "",
+      "prize": 600.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/ricardo-cuisine-contest/",
+      "note": "Ricardo Cuisine Contest: Win a Coffee Machine, year’s worth… Prize: Rancilio Silvia M V6 coffee machine; Eureka Silenzio 55 grinder; 1 year Café William coffee beans; RICARDO products ($600); 5 prize packages Ends: Oct 11/26 Who: QC, age of majority How: Submit form + answer question Entry limit: 1 entry/person/address/day Enter at: Visit RICARDO Read More Canada Contests Win Gift Cards Angie B"
     },
     {
       "id": "d2519ed41c32",
@@ -143,16 +131,28 @@
       "note": "CFL Pick Em & Old Old Dutch Contest: Win… Prize: 200 chip coupons; 146 CFL hats; 21 prizes of 2x 2027 CFL season tickets; 210 Old Dutch product coupon prizes; Grand Prize trip for 2 to Calgary + hotel + flights + $500 + chips for a year; 49 CFL ticket + chip pack prizes; 200 chip prize packs Ends: Oct 24/26 Who: Canada, age of majority How: Create Game Zone account, make weekly CFL picks, submit margin predictions Entry limit: 1/prize/account Enter at: Enter at CFL Pick’Em Read More Canada Conte"
     },
     {
-      "id": "6257c0e5fa9c",
-      "title": "Book Throne Giveaways: Win 1-Year Kindle Unlimited Membership +…",
+      "id": "127c0816720c",
+      "title": "Tunespeak.com Sweepstakes: Win $400 Alo gift card, Warren Zeiders…",
       "sponsor": "",
-      "prize": 350.0,
+      "prize": 400.0,
       "expiry": "",
-      "frequency": "Monthly",
+      "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/book-throne-sweepstakes/",
-      "note": "Book Throne Giveaways: Win 1-Year Kindle Unlimited Membership +… Prize: 1-Year Kindle Unlimited Membership + $350 Amazon Gift Card Ends: Oct 20/26 Who: Worldwide, age 18+ How: Submit online entry + read featured books Entry limit: Single entry Enter at: Enter at Book Throne Read More Canada Contests Monthly Entry Sweepstakes Win Gift Cards Angie B"
+      "url": "https://www.contestscoop.com/tunespeak-com-sweepstakes/",
+      "note": "Tunespeak.com Sweepstakes: Win $400 Alo gift card, Warren Zeiders… Tunespeak.com has several new prizes every month. Scroll down for prize details (general rules are mentioned at the page bottom) Read More Canada Contests Daily Entry Sweepstakes Win trips KIM"
+    },
+    {
+      "id": "16e35c23a81f",
+      "title": "Global News BC Contest: Win Trip to Spirit Ridge…",
+      "sponsor": "",
+      "prize": 200.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/global-news-bc-contests/",
+      "note": "Global News BC Contest: Win Trip to Spirit Ridge… Prize: 2-night Spirit Ridge Resort stay + breakfast; $200 15 Park Bistro gift card; private Phantom Creek Estates tour & tasting for 4; Moon Curser tasting for 4 + 10% wine discount Ends: Sep 27/26 Who: BC, age of majority How: Submit online form Entry limit: 1 entry/person/email Enter at: Visit Global News Read More Canada Contests Win Gift Cards Win trips KIM"
     },
     {
       "id": "b0efeb5ea1f3",
@@ -165,6 +165,18 @@
       "source": "Contest Canada",
       "url": "https://landingmail.com/subscribe/jhm8njbna31d",
       "note": "Daily Updates Want a chance to win a $200 grocery gift card ? Join the thousands of members who get our daily email! Subscribe Now!"
+    },
+    {
+      "id": "ff0e9bc59a95",
+      "title": "Walmart Canada Contest: Win $200 Walmart Gift Card Giveaway",
+      "sponsor": "",
+      "prize": 200.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/walmart-canada-contest/",
+      "note": "Walmart Canada Contest: Win $200 Walmart Gift Card Giveaway Prize: $200 Walmart Gift Card Ends: Nov 15/26 Who: Canada How: Submit entry form Entry limit: 1 entry/day + unlimited bonus entries Enter at: Enter at Flyers Online Read More Canada Contests Sweepstakes Win Gift Cards KIM"
     },
     {
       "id": "b951b586e4ac",
@@ -239,6 +251,18 @@
       "note": "Canadian Contests Quebec Concours Sweepstakes US"
     },
     {
+      "id": "15de149c47a7",
+      "title": "Canadian Contests Expiring Soon | Ending Today & This…",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/canadian-contests-expiring-soon/",
+      "note": "Canadian Contests Expiring Soon | Ending Today & This… Looking for Canadian contests and giveaways you can still enter before they close? 🍀 We’ve rounded up contests ending today, over the next few days, and throughout the month, so you can easily keep track of those last-minute contest deadlines. Read More Back to School Giveaways Canada Contests Daily Entry Instant Prizes Monthly Entry Popular Contests Single Entry Weekly Contests Win trips Angie B"
+    },
+    {
       "id": "bdcfebc2785d",
       "title": "Cash & Gift Cards",
       "sponsor": "",
@@ -287,18 +311,6 @@
       "note": "Contests Expiring Soon Suggest a Contest Winners"
     },
     {
-      "id": "72a19a51f207",
-      "title": "Cove Soda Contest: Win Macbook,Nespresso Machine,AirPods 3 and more",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/cove-soda-canada-contest/",
-      "note": "Cove Soda Contest: Win Macbook,Nespresso Machine,AirPods 3 and more Prize: 1 grand prize: Nespresso machine, MacBook Neo, COVE Soda, AirPods Pro 3, Lululemon backpack, Kodak Mini Shot 2 Retro, 2 Hydro Flask coffee cups, Tamagotchi, school supplies; 4 runner-up Lululemon backpacks Ends: Sep 23/26 Who: Instagram account required; eligibility not specified How: Like, follow @covesoda, tag friends, Story share + tag for bonus Entry limit: Unlimited comments + bonus Story entry Enter: Enter at Cove S"
-    },
-    {
       "id": "2aea4ed8708e",
       "title": "Dr Pepper has some marketing issues – I left...",
       "sponsor": "",
@@ -321,18 +333,6 @@
       "source": "Contest Scoop",
       "url": "https://contestscoop.com/win-vacation-trips/",
       "note": "Canada Contests ➡️ Canada Contests & Giveaways – 2026 Updated List This list features all the current online Contests and giveaways for Canadians to enter. Find free Internet sweepstakes and new promotions. You will discover All Canada prizes like dream vacations , gift cards & shopping sprees. Enter to win cash prizes , cars , beauty gifts , electronics and so much more. Discover Big Contests Worth Entering in Canada . Furthermore, sign up for the free Contestscoop newsletter here and be the fi"
-    },
-    {
-      "id": "e2cef00b16ec",
-      "title": "Entry form Does not function, as the checkbox &#82...",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/13/win-1-of-7-tech-prizes-valued-at-1387-or-1-of-11-7-11-gift-cards-valued-at-50/comment-page-1/#comment-1013557",
-      "note": "Marthe Levac said Entry form Does not function, as the checkbox &#82..."
     },
     {
       "id": "189f46b6d88d",
@@ -419,18 +419,6 @@
       "note": "mattila87 said https://www.heineken.com/ca/en/f1experience/"
     },
     {
-      "id": "2da72acbac90",
-      "title": "I completed the form for this amazing giveaway, bu...",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/13/win-1-of-7-tech-prizes-valued-at-1387-or-1-of-11-7-11-gift-cards-valued-at-50/comment-page-1/#comment-1013558",
-      "note": "Janet Lance said I completed the form for this amazing giveaway, bu..."
-    },
-    {
       "id": "e3f30a628e0d",
       "title": "I KNOW THE PERFECT GROUP OF FRIENDS TO SHARE WITH...",
       "sponsor": "",
@@ -479,28 +467,16 @@
       "note": "Krystyna said Not open to Quebec"
     },
     {
-      "id": "78ee5d2349ae",
-      "title": "Meta Quest Giveaway: Win Meta Quest 3S; 10x Nomsters…",
+      "id": "1594a893cce4",
+      "title": "Nescafe Ca Instagram Contest: Win Nescafé PR Kit Espresso…",
       "sponsor": "",
       "prize": 0,
       "expiry": "",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/meta-quest-giveaway-contest/",
-      "note": "Meta Quest Giveaway: Win Meta Quest 3S; 10x Nomsters… Prize: Meta Quest 3S; 10x Nomsters Launch Bundle; 15x 2,200 Diamond Pack Ends: Sep 30/26 Who: Worldwide How: Online entry form + bonus actions Entry limit: Not specified Enter at: Visit Squido Studio Read More Canada Contests Popular Contests Win Electronics Angie B"
-    },
-    {
-      "id": "cbc51b8c76e5",
-      "title": "More Rewards Social Contest: Win 100,000 More Rewards Points…",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/more-rewards-social-giveaway-contest/",
-      "note": "More Rewards Social Contest: Win 100,000 More Rewards Points… Prize: 5 × 100,000 More Rewards points Ends: Oct 2/26 Who: Not specified How: Follow, like, comment, tag a friend Entry limit: Not specified Enter at: Visit More Rewards on Facebook or Instagram Read More Canada Contests Instagram Angie B"
+      "url": "https://www.contestscoop.com/nescafe-ca-social-giveaway-contest/",
+      "note": "Nescafe Ca Instagram Contest: Win Nescafé PR Kit Espresso… Prize: Nescafé Espresso Concentrates Classic + Vanilla, branded glasses, measuring cup Ends: Oct 15/26 Who: Canada, age of majority How: Follow @nescafeca, like post, comment + tag a friend; Story share for bonus entry Entry limit: Unlimited Enter at: Visit Nescafé Canada Read More Canada Contests Instagram Win Prize Packs Angie B"
     },
     {
       "id": "f90db26a45de",
@@ -611,6 +587,30 @@
       "note": "Reviews & Recommendations"
     },
     {
+      "id": "44ca4b15c34a",
+      "title": "Sept 21st was Graduation Day",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-5-prizes-of-20000/comment-page-1/#comment-1013593",
+      "note": "JH said Sept 21st was Graduation Day"
+    },
+    {
+      "id": "fda72aefc3b1",
+      "title": "Sept 22nd is The Piano",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-5-prizes-of-20000/comment-page-1/#comment-1013595",
+      "note": "JH said Sept 22nd is The Piano"
+    },
+    {
       "id": "89187f52dbe4",
       "title": "Sorted by Posted Date",
       "sponsor": "",
@@ -647,6 +647,18 @@
       "note": "contestc said Thanks, updated now."
     },
     {
+      "id": "ff6d23af113e",
+      "title": "Titleist CA Sweepstakes: Win Year’s supply of Titleist premium…",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/titleist-canada-contest/",
+      "note": "Titleist CA Sweepstakes: Win Year’s supply of Titleist premium… Prize: 12 prizes: 1-year supply Titleist golf balls (6 dozen each) Ends: Dec 31/26 Who: Canada, age of majority How: Join Team Titleist or update profile, opt-in for bonus entry Entry limit: Single entry Enter at: enter at Titleist Read More Canada Contests Single Entry KIM"
+    },
+    {
       "id": "c23a3ebb0ab1",
       "title": "Unfortunately does not include airfare to Dubrovni...",
       "sponsor": "",
@@ -671,28 +683,16 @@
       "note": "Krystyna said When you write the mobile number the message is &#..."
     },
     {
-      "id": "b1fec68f8af0",
-      "title": "Win a Trip to See Miley at the Hollywood…",
+      "id": "c5ed0c105d43",
+      "title": "ZoomerRadio.ca Contests: Win a VIP 2026 Elvis Experience &…",
       "sponsor": "",
       "prize": 0,
       "expiry": "",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/win-trip-to-see-miley-hollywood-bowl/",
-      "note": "Win a Trip to See Miley at the Hollywood… Prize: Trip for 2 to see Miley at the Hollywood Bowl, including roundtrip airfare, 2-night hotel stay and 2 concert tickets Ends: Sep 27/26 Who: Canada excluding QC, age of majority How: Listen for Miley cue, text MILEY + name within 2 minutes Entry limit: Unlimited Enter at: Enter at Seekr Read More Canada Contests Text To Win Trending Contests Win trips Angie B"
-    },
-    {
-      "id": "9688ecba7fe2",
-      "title": "Win trip to Philippines – Forgotten Island Sweepstakes",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/philippines-giveaway-win-trip-to-philippines/",
-      "note": "Win trip to Philippines – Forgotten Island Sweepstakes Prize: Round-trip United Airlines economy ticket to Manila; 3-day/2-night Deluxe Room at Escala Tagaytay + breakfast for 2; 4-day/3-night 1-Bedroom Premium Villa at Lihim Resorts, El Nido + breakfast for 2 Ends: Oct 15/26 Who: Canada & US, age 18+ How: Submit official entry form Entry limit: 1 entry/person Enter at: Visit Philippine Department of Tourism Read More Canada Contests Popular Contests Win trips Angie B"
+      "url": "https://www.contestscoop.com/zoomer-radio-contests/",
+      "note": "ZoomerRadio.ca Contests: Win a VIP 2026 Elvis Experience &… Looking for your next great prize? The latest contests featured by Zoomer Radio in the Zoomer Post are packed with exciting giveaways—from travel getaways to must-have lifestyle prizes. Read More Canada Contests Radio Contests Win Gift Cards Win trips KIM"
     },
     {
       "id": "bdbfe9890900",
@@ -803,88 +803,88 @@
       "note": "🧸 Toys, Games & Collectibles"
     },
     {
-      "id": "db628581a0bc",
-      "title": "Win a 1-night stay for 6-people at Estello Suites in Frontenac, Quebec valued at $10,000",
+      "id": "805affe7c323",
+      "title": "Win 1 of 18 NFL jerseys valued at $220",
       "sponsor": "",
-      "prize": 34000.0,
+      "prize": 220.0,
+      "expiry": "January 13, 2027",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-18-nfl-jerseys-valued-at-220/",
+      "note": "Win 1 of 18 NFL jerseys valued at $220 Here’s a chance to win 1 of 18 NFL jerseys, each valued at $220. Entry Frequency: daily Expires: January 13, 2027 https://www.shopbeergear.ca/pages/wild-wing-nfl-jersey-etw-draw-pin-sep-2026"
+    },
+    {
+      "id": "6f7a71cfef6d",
+      "title": "Win 1 of 10 Buffalo Bills electric wall signs valued at $300",
+      "sponsor": "",
+      "prize": 300.0,
       "expiry": "November 30, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/20/win-a-1-night-stay-for-6-people-at-estello-suites-in-frontenac-quebec-valued-at-10000/",
-      "note": "September 20th, 2026 Win a 1-night stay for 6-people at Estello Suites in Frontenac, Quebec valued at $10,000 We have over $34,000 in new contest prizes today. Let’s get started… You can win an overnight stay for 6 at Estello Suites in Frontenac valued at $10,000 (yeeps, what’s the room rate??). You’ll need to provide a follow on Instagram, Facebook and TikTok to enter. Entry Frequency: single Expires: November 30, 2026 https://www.estello.ca/en/concours"
-    },
-    {
-      "id": "71d63147fc2e",
-      "title": "Win the children’s book “My Best Friend is a Butternut Squash”, valued at $25",
-      "sponsor": "",
-      "prize": 25.0,
-      "expiry": "October 11, 2026",
       "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/21/win-the-childrens-book-my-best-friend-is-a-butternut-squash-valued-at-25/",
-      "note": "Win the children’s book “My Best Friend is a Butternut Squash”, valued at $25 You can win a fun fall book for kids, valued at $25. Entry Frequency: daily Expires: October 11, 2026 https://canadiancookbooks.ca/my-best-friend-is-a-butternut-squash-2/"
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-10-buffalo-bills-electric-wall-signs-valued-at-300/",
+      "note": "Win 1 of 10 Buffalo Bills electric wall signs valued at $300 Ontarians, you can win 1 of 10 Buffalo Bills-branded electric signs, each valued at $300. Entry Frequency: daily Open to: ON Expires: November 30, 2026 https://www.shopbeergear.ca/pages/budlight-x-buffalo-bills-neon-giveaway-2026-on-draw-pin-aug-2026"
     },
     {
-      "id": "a8e7b5528463",
-      "title": "Win “The Simplicious Cookbook”, valued at $21",
+      "id": "31e26c3b5842",
+      "title": "Win a $35,000 package which includes a travel voucher, hotel gift card, Sports store gift card, Visa gift card & Connor McDavid package",
       "sponsor": "",
-      "prize": 21.0,
-      "expiry": "October 11, 2026",
+      "prize": 174000.0,
+      "expiry": "November 9, 2026",
       "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/21/win-the-simplicious-cookbook-valued-at-21/",
-      "note": "Win “The Simplicious Cookbook”, valued at $21 You can win this book of quick and healthy recipes, valued at $21. Entry Frequency: daily Expires: October 11, 2026 https://canadiancookbooks.ca/the-simplicious-cookbook-2/"
+      "url": "https://www.contestcanada.net/2026/09/22/win-a-35000-package-which-includes-a-travel-voucher-hotel-gift-card-sports-store-gift-card-visa-gift-card-connor-mcdavid-package/",
+      "note": "September 22nd, 2026 Win a $35,000 package which includes a travel voucher, hotel gift card, Sports store gift card, Visa gift card & Connor McDavid package We have $174,000 worth of new contest prizes in today’s update! Here’s a nice one: you can win a $35,000 value prize pack that includes a travel voucher, gift cards for hotel and sporting goods, Visa gift card, and Connor McDavid package. You can enter at Circle K stores by purchasing a Bodyarmor product or use the postal mail option. Entry "
     },
     {
-      "id": "fdf5e6cd4932",
-      "title": "Win a Google Pixel smartphone & 1-year mobile plan valued at $2,070",
+      "id": "c0813a1729cb",
+      "title": "Win 1 of 5 prizes of $20,000",
       "sponsor": "",
-      "prize": 2070.0,
-      "expiry": "September 23, 2026",
-      "frequency": "Single",
+      "prize": 20000.0,
+      "expiry": "October 3, 2026",
+      "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/21/win-a-google-pixel-smartphone-1-year-mobile-plan-valued-at-2070/",
-      "note": "Win a Google Pixel smartphone & 1-year mobile plan valued at $2,070 Quebec residents, you can win a new Pixel phone AND a one-year plan to go with it ($2,070 value). Entry Frequency: single Open to: QC Expires: September 23, 2026 https://liens.communications-videotron.com/mail/microsites/2834/1/pULeMk"
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-5-prizes-of-20000/",
+      "note": "Win 1 of 5 prizes of $20,000 Members of the Wheel Watchers Club (free to join), submit the daily Wheel of Fortune answer for a chance to win 1 of 5 prizes of $20,000. Keep an eye on comments below – you might find some answers getting added there. Entry Frequency: daily Not open to: QC Membership required Expires: October 3, 2026 https://www.wheeloffortune.com/ca/win"
     },
     {
-      "id": "9656f01dff44",
-      "title": "Win a Ninja Slushi machine valued at $250",
+      "id": "aadec4ef14de",
+      "title": "Win 1 of 3 Shaquille O’ Neal Home sectionals or sofas valued at $2,400 to $6,600",
       "sponsor": "",
-      "prize": 250.0,
+      "prize": 6600.0,
       "expiry": "September 24, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/21/win-a-ninja-slushi-machine-valued-at-250/",
-      "note": "Win a Ninja Slushi machine valued at $250 @ninjakitchencanada has an Instagram giveaway for a Slushi maker, valued at $250. Entry Frequency: single Expires: September 24, 2026 https://www.instagram.com/ninjakitchencanada/reel/DdZEp3qRVpu/"
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-3-shaquille-o-neal-home-sectionals-or-sofas-valued-at-2400-to-6600/",
+      "note": "Win 1 of 3 Shaquille O’ Neal Home sectionals or sofas valued at $2,400 to $6,600 @brickwarehouse has an Instagram giveaway and you can win 1 of 3 sectionals or sofas valued from $2,400 to $6,600. Entry Frequency: unlimited Expires: September 24, 2026 https://www.instagram.com/p/DdEiPsQDMUX/"
     },
     {
-      "id": "219ac7a1f7bf",
-      "title": "Win a $25 Tim Hortons eGift Card",
+      "id": "d8352df3dbd8",
+      "title": "Win a 2-night trip to Hollywood, with flights, hotel & Miley Cyrus concert tickets valued at $5,500",
       "sponsor": "",
-      "prize": 25.0,
+      "prize": 5500.0,
       "expiry": "September 27, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/21/win-a-25-tim-hortons-egift-card-71/",
-      "note": "Win a $25 Tim Hortons eGift Card Enter for a chance to win a $25 Tim Hortons egift card from Royal Draw. Good luck! Entry Frequency: single Expires: September 27, 2026 https://www.royaldraw.com/click?aff=contestcan&uri=aHR0cHM6Ly93d3cucm95YWxkcmF3LmNvbS9XSU4tYS0yNS1UaW0tSG9ydG9ucy1lR2lmdC1DYXJkLUQzNjUxMj9yY2FmaWQ9UFQxUlVFcHdXRlE9"
+      "url": "https://www.contestcanada.net/2026/09/22/win-a-2-night-trip-to-hollywood-with-flights-hotel-miley-cyrus-concert-tickets-valued-at-5500/",
+      "note": "Win a 2-night trip to Hollywood, with flights, hotel & Miley Cyrus concert tickets valued at $5,500 Listen in for a Miley Cyrus song, then text the word “MILEY” to the station code listed on the site below. You can win a 2-night trip to California to see Miley Cyrus in concert ($5,500 value). Entry Frequency: unlimited Trivia/Product question response required Expires: September 27, 2026 https://www.seekyoursounds.com/contests/see-miley-at-the-hollywood-bowl"
     },
     {
-      "id": "ba9af6790ce1",
-      "title": "Win a 3-night stay at The Marriott in Calgary, with 2026 Grey Cup VIP experience valued at $14,240",
+      "id": "55a0c7b74fd9",
+      "title": "Win a $25 Home Depot eGift Card",
       "sponsor": "",
-      "prize": 14240.0,
+      "prize": 25.0,
       "expiry": "September 28, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/20/win-a-3-night-stay-at-the-marriott-in-calgary-with-2026-grey-cup-vip-experience-valued-at-14240/",
-      "note": "Win a 3-night stay at The Marriott in Calgary, with 2026 Grey Cup VIP experience valued at $14,240 BC, AB, SK, and MB residents, you can win a 3-night accommodation package at The Marriott in Calgary. But wait, there’s more… you’ll also attend the Grey Cup, with a VIP experience! ($14,240 value). Entry Frequency: single Open to: BC, AB, SK, MB Expires: September 28, 2026 https://www.visitcalgary.com/grey-cup-contest-september-2026"
+      "url": "https://www.contestcanada.net/2026/09/22/win-a-25-home-depot-egift-card-85/",
+      "note": "Win a $25 Home Depot eGift Card Enter for a chance to win a $25 Home Depot egift card from Royal Draw. Good luck! Entry Frequency: single Expires: September 28, 2026 https://www.royaldraw.com/click?aff=contestcan&uri=aHR0cHM6Ly93d3cucm95YWxkcmF3LmNvbS9XSU4tYS0yNS1Ib21lLURlcG90LWVHaWZ0LUNhcmQtRDM2NTEzP3JjYWZpZD1QVDFSVUVwd1dGUT0="
     },
     {
       "id": "27360f2acc1b",
@@ -899,6 +899,18 @@
       "note": "September 21st, 2026 Win a Samsung smartphone valued at $2,000 We have about $13,000 in contest prizes in today’s update, including some that are expiring TODAY. First up, a chance to win a new Samsung phone worth $2,000. Entry Frequency: single Expires: September 29, 2026 https://sweepwidget.com/c/102350-n2y8sf7q"
     },
     {
+      "id": "4e1cfe0e1a63",
+      "title": "Win 1 of 2 travel vouchers & Champs luggage package valued at $8,275",
+      "sponsor": "",
+      "prize": 8275.0,
+      "expiry": "September 30, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/09/22/win-1-of-2-travel-vouchers-champs-luggage-package-valued-at-8275/",
+      "note": "Win 1 of 2 travel vouchers & Champs luggage package valued at $8,275 Blue Rewards can sign in and redeem 315 points for an entry into this contest OR use the email entry option. There are two prizes of a travel voucher and luggage set valued at $8,275. Entry Frequency: Up to 15 entries Membership required Expires: September 30, 2026 https://rewards.bluerewards.ca/product/261790?locale=en-CA"
+    },
+    {
       "id": "594100e595dc",
       "title": "Win a Shure microphone valued at $1,169",
       "sponsor": "",
@@ -909,18 +921,6 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/2026/09/21/win-a-shure-microphone-valued-at-1169/",
       "note": "Win a Shure microphone valued at $1,169 Enter this contest from Tom Lee music for a chance to win a Shure microphone valued at $1,169. Entry Frequency: daily Expires: September 30, 2026 https://www.tomleemusic.ca/event/shure-giveaway-contest/"
-    },
-    {
-      "id": "c5cc2116d9da",
-      "title": "Win a Apple iPad valued at $1,000",
-      "sponsor": "",
-      "prize": 1000.0,
-      "expiry": "September 30, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/21/win-a-apple-ipad-valued-at-1000/",
-      "note": "Win a Apple iPad valued at $1,000 Residents of the Chatham, Windsor, London and Sarnia areas, you can win a new iPad valued at $1,000. Entry Frequency: single Open to: ON Expires: September 30, 2026 https://www.handybros.com/the-hb-games/"
     }
   ]
 }

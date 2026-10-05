@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T18:21:23.689563+00:00",
+  "updated_at": "2026-10-05T13:22:24.079171+00:00",
   "sources_checked": [
     "Contest Scoop",
     "Contest Canada",
@@ -23,16 +23,16 @@
       "note": "belairdirect Utilities Payback Contest: Win $30,000 Cash with Insurance… Prize: 3 x $30,000 cheques Ends: Dec 13/26 Who: ON, age of majority How: Complete auto and/or home insurance quote; existing eligible clients auto-entered Entry limit: 1 auto + 1 home Enter at: Enter at belairdirect Read More Canada Contests Win Cash Angie B"
     },
     {
-      "id": "69bf180c9f3e",
-      "title": "Dr Pepper Tuition Contest: Win $10,000 Cash & Instant…",
+      "id": "1f76103bd9e9",
+      "title": "Move Radio Dream Big Contest: Win $20,000 Cash Prize",
       "sponsor": "",
-      "prize": 10000.0,
+      "prize": 20000.0,
       "expiry": "",
-      "frequency": "Single",
+      "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/dr-pepper-canada-contest/",
-      "note": "Dr Pepper Tuition Contest: Win $10,000 Cash & Instant… Prize: 3 x $10,000 cash; 1 laptop ($800); 1 tablet ($800); 1 earphones ($330); 5 gift cards ($100); 20 water bottles ($65); 10 bucket hats ($40); 15 gift packs ($90) Ends: Nov 30/26 Who: Canada, age of majority, participating college/university students How: Submit survey entry; or purchase Dr Pepper, upload photo, submit form Entry limit: 1 judged entry; 1 entry/day; 25 Instant Win total Enter at: Visit Dr Pepper Tuition Contest Read More C"
+      "url": "https://www.contestscoop.com/move-radio-canada-contests/",
+      "note": "Move Radio Dream Big Contest: Win $20,000 Cash Prize Prize: 6 x $20,000 + 27 x $1,000 Ends: Oct 16/26 Who: BC, NB, NS, QC, ON; age of majority How: Listen for keyword, submit online entry Entry limit: 1 entry/keyword + 3 additional Enter at: Visit MOVE Ottawa Read More Canada Contests Daily Entry Radio Contests Angie B"
     },
     {
       "id": "9e7cc84673a2",
@@ -47,6 +47,18 @@
       "note": "Recycle Your Batteries Contest: Win $10,000 Cash Prize Prize: $10,000 cheque; $2,000 cheque; 3 x $1,000 cheques Ends: Oct 31/26 Who: Canada, age of majority How: Complete battery recycling quiz + entry form Entry limit: 1/person Enter at: Enter at Call2Recycle Read More Canada Contests Angie B"
     },
     {
+      "id": "ff9bc4ae5f59",
+      "title": "Cirque du Soleil Giveaway: Win VIP tickets & Trip…",
+      "sponsor": "",
+      "prize": 5750.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/cirque-du-soleil-canada-contests/",
+      "note": "Cirque du Soleil Giveaway: Win VIP tickets & Trip… Prize: 2 VIP Cirque du Soleil tickets; round-trip flights for 2; 2-night hotel stay; $500 prepaid gift card; approx. $5,750 total Ends: Dec 31/26 Who: Canada, age of majority How: Submit online entry form Entry limit: Single entry Enter: Enter at Cirque du Soleil Read More Canada Contests Win Prize Packs Win trips KIM"
+    },
+    {
       "id": "ea187d31e780",
       "title": "BodyArmor Hockey Contest: Win Stanley Cup Final tickets; $4,000…",
       "sponsor": "",
@@ -57,18 +69,6 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/drink-bodyarmor-contest/",
       "note": "BodyArmor Hockey Contest: Win Stanley Cup Final tickets; $4,000… Contest: BODYARMOR Stanley Cup Final Giveaway Prize: 2 lower-bowl Stanley Cup Final tickets; $4,000 CAD Ends: Nov 30/26 Who: Canada, age 18+ How: Login & submit entry Entry limit: 1 entry/day; up to 200 bonus entries Enter at: Visit BODYARMOR Read More Canada Contests Win Gift Cards Win trips Angie B"
-    },
-    {
-      "id": "86ea0fdcaa76",
-      "title": "Crispers Custom Kicks Contest: Win 1 of 25 Custom…",
-      "sponsor": "",
-      "prize": 2900.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/crispers-canada-contest/",
-      "note": "Crispers Custom Kicks Contest: Win 1 of 25 Custom… Prize: 25 x custom pairs of shoes, approx. $2,900 each Ends: Dec 31/26 Who: Canada, age of majority How: Complete entry form + submit design concept Entry limit: 1 entry/day Enter at: Visit Crispers Read More Canada Contests Win Gift Cards Angie B"
     },
     {
       "id": "4c4aa7c01c34",
@@ -143,6 +143,18 @@
       "note": "House And Home Contests: Win 1,500 Home Refresh Prize: $500 BEHR paint gift certificate + $500 Home Depot Canada gift card + $500 H&H Colour of the Year design consultation Ends: Nov 30/26 Who: Canada excluding QC, age of majority How: Submit form + Gleam bonus actions Entry limit: Once per eligible action Enter at: Visit House & Home Read More Canada Contests Daily Entry Monthly Entry Win Appliances Win Cash Win Gift Cards Win Prize Packs Angie B"
     },
     {
+      "id": "6db1ac84b6fa",
+      "title": "YES TV Movie Club Contest: Win Smart TV | Watch…",
+      "sponsor": "",
+      "prize": 500.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/yes-tv-canada-contest/",
+      "note": "YES TV Movie Club Contest: Win Smart TV | Watch… Prize: 50-inch Smart TV ($500) Ends: Nov 8/26 Who: Canada excluding QC, age of majority How: Watch Sunday movie, submit keyword Entry limit: 1/keyword, 6 total Enter at: Visit YES TV Read More Canada Contests Smart TV Win Electronics Angie B"
+    },
+    {
       "id": "c49156dd9b84",
       "title": "Cricut Canada Contest: Win October 2026 Cricut Giveaway",
       "sponsor": "",
@@ -201,18 +213,6 @@
       "source": "Gleam",
       "url": "https://gleamgiveaways.com/gleam-giveaways/",
       "note": "Popular Gleam Giveaways Giveaway Secret Codes Win Free Gift Cards Win Free Cash Win a Free Vacation Giveaways Under $50 Unverified Giveaways Browse by Platform Gleam SweepWidget KingSumo ViralSweep"
-    },
-    {
-      "id": "0e3b7b6a16da",
-      "title": "Comment to Win Blog Contest (Monthly) & Winners Page",
-      "sponsor": "",
-      "prize": 25.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/comment-to-win-winners-list/",
-      "note": "Comment to Win Blog Contest (Monthly) & Winners Page Comment & Win – Monthly Giveaway Enter at: Contestscoop.com See rules: Official rules Prize: $25 e-gift card (winner’s choice) Draw: Monthly Claim: 10 days to respond Who: Canada (excl. QC), 16+ How: Comment on any post Bonus: Leave review Entry limit: 1/comment, Unlimited Read More Canada Contests Daily Entry Facebook Monthly Entry Weekly Contests KIM"
     },
     {
       "id": "74a981708740",
@@ -297,18 +297,6 @@
       "source": "Gleam",
       "url": "https://gleamgiveaways.com/categories/",
       "note": "Categories Expand Cash & Valuables 💵 Cash & Gift Cards 💍 Jewelry & Watches 🪙 Gold & Precious Metals ⛓️ Crypto Tech & Gaming 💻 Electronics & Gadgets 🎮 Gaming 📷 Photography & Cameras Home & Hobbies 🏠 Home, Furniture & Appliances 🔧 Tools & Hardware 🪴 Patio & Garden 🎨 Arts & Crafts Fashion & Beauty 💄 Health & Beauty 👕 Clothing, Shoes & Accessories Entertainment 🎬 Movies, Music & Books 🎤 Concerts & Live Entertainment 🎸 Musical Instruments & Gear Sports & Travel 🏆 Sports, Fitness & Outdoors ✈️ Travel "
-    },
-    {
-      "id": "e49b138d028d",
-      "title": "Catit CA Contest: Win Catit Treats Mix Pack",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Monthly",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/catit-ca-giveaway/",
-      "note": "Catit CA Contest: Win Catit Treats Mix Pack Prize: Catit Treats Mix Pack Ends: Oct 31/26 Who: Canada, USA, UK, Germany, France, Spain, age of majority How: Subscribe and enter form Entry limit: Not specified Enter at: Enter at Catit Read More Canada Contests Free Stuff Monthly Entry Single Entry Sweepstakes KIM"
     },
     {
       "id": "dbe2dee62b24",
@@ -671,6 +659,18 @@
       "note": "Viking Cruises Canada Contest: Win an 8-Day 2027 Viking… Prize: Choice of an 8-day 2027 Viking River, Ocean or Expedition voyage for 2 + roundtrip airfare Ends: Sep 30/26 Who: Canada (excl. QC) & U.S., 21+ How: Submit entry form Entry limit: Single entry. Enter: Enter at Viking Cruises Read More Canada Contests Win a Cruise Win trips Angie B"
     },
     {
+      "id": "659ba5e8a7cb",
+      "title": "Westjet Contests: Win Grey Cup Trip for 2 to…",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/westjet-canada-contests/",
+      "note": "Westjet Contests: Win Grey Cup Trip for 2 to… Prize: 1x Grey Cup trip for 2 to Calgary + 3 hotel nights + 2 game tickets; 1x 500,000 WestJet points Ends: Oct 26/26 Who: Canada, age of majority How: Login & register; link eligible partner accounts; eligible RBC cardholder bonus Entry limit: Max 5/person Enter at: Visit WestJet Read More Canada Contests Win Gift Cards Win trips Angie B"
+    },
+    {
       "id": "f18f4c360958",
       "title": "Would love to win this.",
       "sponsor": "",
@@ -791,40 +791,64 @@
       "note": "🧸 Toys, Games & Collectibles"
     },
     {
-      "id": "8b22d28efc9f",
-      "title": "Win a Black & Decker 6-piece kitchen prize pack valued at $269",
+      "id": "22167f60f13e",
+      "title": "Win a 2-night trip to Buffalo, NY with flights, hotel & Buffalo Bills NFL tickets valued at $6,500",
       "sponsor": "",
-      "prize": 269.0,
-      "expiry": "December 31, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-a-black-decker-6-piece-kitchen-prize-pack-valued-at-269/",
-      "note": "Win a Black & Decker 6-piece kitchen prize pack valued at $269 Here’s a chance to win a 6-piece set of kitchen gear, valued at $269. Entry Frequency: single Not open to: QC Expires: December 31, 2026 https://us3.list-manage.com/survey?u=059d8ed0178522047b7cc4b03&id=ff1aa5ce19&attribution=false"
-    },
-    {
-      "id": "7380049d4bcd",
-      "title": "Win a free furnace with installation, valued at $8910",
-      "sponsor": "",
-      "prize": 8910.0,
-      "expiry": "October 11, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-a-free-furnace-with-installation-valued-at-8910/",
-      "note": "Win a free furnace with installation, valued at $8910 This contest is for homeowners residing within the Air Vantage service area (Abbotsford, Mission, Chilliwack, Langley, Surrey, and Maple Ridge) only. 1 entry per household. You can win a new furnace, including installation, valued at %8,910. Entry Frequency: single Open to: BC Photo/Video required Expires: October 11, 2026 https://callairvantage.ca/contest-0926/"
-    },
-    {
-      "id": "1d3f310ef6ef",
-      "title": "Win a Rancilio Silvia coffee machine & prize pack valued at $3,600",
-      "sponsor": "",
-      "prize": 3600.0,
-      "expiry": "October 11, 2026",
+      "prize": 6500.0,
+      "expiry": "December 20, 2026",
       "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-a-rancilio-silvia-coffee-machine-prize-pack-valued-at-3600/",
-      "note": "Win a Rancilio Silvia coffee machine & prize pack valued at $3,600 Quebec residents, you can win a coffee machine and prize pack worth $3,600. Entry Frequency: daily Open to: QC Expires: October 11, 2026 https://www.ricardocuisine.com/en/contests/win-your-ultimate-coffee-break"
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-2-night-trip-to-buffalo-ny-with-flights-hotel-buffalo-bills-nfl-tickets-valued-at-6500/",
+      "note": "Win a 2-night trip to Buffalo, NY with flights, hotel & Buffalo Bills NFL tickets valued at $6,500 Albertans, you can win a 2-night trip to Buffalo for a Bills game. The prize package is valued at $6,500 including travel and tickets. Entry Frequency: daily Open to: AB Expires: December 20, 2026 https://www.shopbeergear.ca/pages/budweiser-bud-light-nfl-flyaway-contest-2027-ab-draw-pin-sep-2026"
+    },
+    {
+      "id": "ef7c38dc94e4",
+      "title": "Win a 3-night trip to Salt Lake City, Utah with flights, hotel, cash & NHL Winter Classic tickets valued at $12,500",
+      "sponsor": "",
+      "prize": 12500.0,
+      "expiry": "November 30, 2026",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-3-night-trip-to-salt-lake-city-utah-with-flights-hotel-cash-nhl-winter-classic-tickets-valued-at-12500/",
+      "note": "Win a 3-night trip to Salt Lake City, Utah with flights, hotel, cash & NHL Winter Classic tickets valued at $12,500 Albertans, you can win a trip to Utah for the NHL Winter Classic. It includes flights, hotel, cash and game tickets ($12,500 value). Entry Frequency: daily Open to: AB Expires: November 30, 2026 https://www.shopbeergear.ca/pages/enter-to-win-a-trip-to-nhl-winter-classic-draw-pin-oct-2026"
+    },
+    {
+      "id": "c10419723c97",
+      "title": "Win a $25 Shoppers Drug Mart Gift Card",
+      "sponsor": "",
+      "prize": 25.0,
+      "expiry": "October 10, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-25-shoppers-drug-mart-gift-card-34/",
+      "note": "Win a $25 Shoppers Drug Mart Gift Card Enter for a chance to win a $25 Shoppers Drug Mart gift card from Royal Draw. Good luck! Entry Frequency: single Expires: October 10, 2026 https://www.royaldraw.com/click?aff=contestcan&uri=aHR0cHM6Ly93d3cucm95YWxkcmF3LmNvbS9XSU4tYS0yNS1TaG9wcGVycy1EcnVnLU1hcnQtR2lmdC1DYXJkLUQzNjUyNz9yY2FmaWQ9UFQxUlVFcHdXRlE9"
+    },
+    {
+      "id": "e0a17f2603e5",
+      "title": "Win a Grey Cup watch party valued at $4,000 or 1 of 8 Wholesale gift cards valued at $100",
+      "sponsor": "",
+      "prize": 4000.0,
+      "expiry": "October 12, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-grey-cup-watch-party-valued-at-4000-or-1-of-8-wholesale-gift-cards-valued-at-100/",
+      "note": "Win a Grey Cup watch party valued at $4,000 or 1 of 8 Wholesale gift cards valued at $100 This is a nomination contest, with a limit of 5 entries per business. The business must have at least 1 TV, cable subscription, or Wholesale membership. The winner will receive a Grey Cup watch party worth $4,000 or 1 of 8 gift cards of $100. Entry Frequency: Up to 5 entries Essay required Expires: October 12, 2026 https://cfl.ca/cfl-x-wholesale-club-watch-party-113-grey-cup-contest"
+    },
+    {
+      "id": "bf3a33b38bcb",
+      "title": "Win a 3-night trip to Calgary, with flights, hotel & 2026 Grey Cup tickets valued at $6,000 or a pair of 2027 CFL season passes valued at $1,000",
+      "sponsor": "",
+      "prize": 54000.0,
+      "expiry": "October 15, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-3-night-trip-to-calgary-with-flights-hotel-2026-grey-cup-tickets-valued-at-6000-or-a-pair-of-2027-cfl-season-passes-valued-at-1000/",
+      "note": "October 4th, 2026 Win a 3-night trip to Calgary, with flights, hotel & 2026 Grey Cup tickets valued at $6,000 or a pair of 2027 CFL season passes valued at $1,000 We have over $54,000 in new contest prizes today, including some great trips to Calgary for the Grey Cup. Let’s start with this one… This is a nomination contest, and the prize is a 3-night trip to Calgary. It includes flights, hotel, and Grey Cup tickets ($6,000 value) OR you can win a pair of season tickets worth $1,000. Entry Freque"
     },
     {
       "id": "8761f58debb0",
@@ -839,40 +863,40 @@
       "note": "October 3rd, 2026 Win a Samsung 65″ OLED TV & soundbar & 1-year Stream+ subscription valued at $3,716 Here’s a chance to win a Samsung 65″ TV, soundbar, and streaming subscription ($3,716 total value). Entry Frequency: single Expires: October 21, 2026 https://www.telus.com/en/deals-and-bundles/toy-story-contest?CMP=VAN_toystory5"
     },
     {
-      "id": "2f5a6420f8ba",
-      "title": "Win 1 of 5 Fresh Bake ranges valued at $2,700",
+      "id": "8a512fd19441",
+      "title": "Win a 3-night trip to Calgary, with flights, hotel & 2026 Grey Cup VIP tickets valued at $6,000",
       "sponsor": "",
-      "prize": 2700.0,
-      "expiry": "October 31, 2026",
+      "prize": 6000.0,
+      "expiry": "October 24, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-1-of-5-fresh-bake-ranges-valued-at-2700/",
-      "note": "Win 1 of 5 Fresh Bake ranges valued at $2,700 Submit a “before” picture of your kitchen for this contest. If you win, you’ll receive 1 of 5 Fresh Bake ranges, installed, valued at $2,700. Entry Frequency: single Photo/Video required Expires: October 31, 2026 https://westernliving.ca/contests/general/giveaway-apply-for-a-complimentary-freshbake-range-upgrade/"
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-3-night-trip-to-calgary-with-flights-hotel-2026-grey-cup-vip-tickets-valued-at-6000/",
+      "note": "Win a 3-night trip to Calgary, with flights, hotel & 2026 Grey Cup VIP tickets valued at $6,000 There are 2 ways to enter: Download the CFL app and enter there, or use the free entry option at the bottom of the page linked below. You can win a trip to the Grey Cup valued at $6,000. Entry Frequency: single Photo/Video required Expires: October 24, 2026 https://cfl.ca/endzone"
     },
     {
-      "id": "6b266439fe4f",
-      "title": "Win a Philips espresso machine valued at $1,000",
+      "id": "b710c4689deb",
+      "title": "Win a 3-night trip to Calgary, with flights, accommodations & 2026 Grey Cup tickets valued at $5,000",
       "sponsor": "",
-      "prize": 1000.0,
-      "expiry": "October 31, 2026",
+      "prize": 5000.0,
+      "expiry": "October 24, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-a-philips-espresso-machine-valued-at-1000/",
-      "note": "Win a Philips espresso machine valued at $1,000 Here’s a chance to win an espresso machine valued at $1,000. Entry Frequency: single Expires: October 31, 2026 https://www.fairtrademonth.net/ca/grandprize"
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-3-night-trip-to-calgary-with-flights-accommodations-2026-grey-cup-tickets-valued-at-5000/",
+      "note": "Win a 3-night trip to Calgary, with flights, accommodations & 2026 Grey Cup tickets valued at $5,000 You can enter this contest by attending a CFL game and entering the draw, or use the free 50-100 word essay email entry option. The winner will fly to Calgary to attend the Grey Cup ($5,000 value). Entry Frequency: single Expires: October 24, 2026 https://cfl.ca/2026-cfl-grey-cup-contest"
     },
     {
-      "id": "0db78983e25a",
-      "title": "Win 1 of 584 TCL 50″ 4K TVs valued at $500",
+      "id": "da59fc49e8a8",
+      "title": "Win a 3-night trip to Calgary, with flights, hotel & 2026 Grey Cup tickets valued at $5,000",
       "sponsor": "",
-      "prize": 500.0,
-      "expiry": "October 31, 2026",
-      "frequency": "Daily",
+      "prize": 5000.0,
+      "expiry": "October 26, 2026",
+      "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-1-of-584-tcl-50-4k-tvs-valued-at-500/",
-      "note": "Win 1 of 584 TCL 50″ 4K TVs valued at $500 AB, SK, MB, QC, NS and NL residents, you can win one of 584 50″ TVs worth $500. This is an in-store draw. Entry Frequency: daily Open to: AB, SK, MB, QC, NS, NL Expires: October 31, 2026 https://www.shopbeergear.ca/pages/official-bud-light-nfl-etw-tcl-tv-contest-rules"
+      "url": "https://www.contestcanada.net/2026/10/04/win-a-3-night-trip-to-calgary-with-flights-hotel-2026-grey-cup-tickets-valued-at-5000/",
+      "note": "Win a 3-night trip to Calgary, with flights, hotel & 2026 Grey Cup tickets valued at $5,000 Here’s a chance to fly to Calgary and attend the Grey Cup. The prize pack is worth $5,000. Entry Frequency: single Expires: October 26, 2026 https://www.telus.com/en/social-impact/sports-sponsorships/greycup"
     },
     {
       "id": "ed8cc8b619ea",
@@ -885,30 +909,6 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/2026/10/03/win-a-silver-cross-stroller-cyber-car-seat-snuz-valued-at-2500/",
       "note": "Win a Silver Cross stroller & cyber car seat & Snuz valued at $2,500 You can win a new stroller, car seat, and Snuz ($2,500 total value). Entry Frequency: single Expires: October 7, 2026 https://contest.thebabyshows.com/clement-contest-fall-2026/"
-    },
-    {
-      "id": "1686aeb75e48",
-      "title": "Win a BBQ valued at $700 or 1 of 10 Visa gift cards valued at $100",
-      "sponsor": "",
-      "prize": 700.0,
-      "expiry": "October 8, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-a-bbq-valued-at-700-or-1-of-10-visa-gift-cards-valued-at-100/",
-      "note": "Win a BBQ valued at $700 or 1 of 10 Visa gift cards valued at $100 Enter this contest from Canada Beef for a chance to win a BBQ worth $700 or 1 of 10 Visa gift cards worth $100. Entry Frequency: single Not open to: QC Expires: October 8, 2026 https://canadabeef.ca/chat/"
-    },
-    {
-      "id": "e99177a01f07",
-      "title": "Win a $30 Netflix eGift Card",
-      "sponsor": "",
-      "prize": 30.0,
-      "expiry": "October 9, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/03/win-a-30-netflix-egift-card-18/",
-      "note": "Win a $30 Netflix eGift Card Enter for a chance to win a $30 Netflix egift card from Royal Draw. Good luck! Entry Frequency: single Expires: October 9, 2026 https://www.royaldraw.com/click?aff=contestcan&uri=aHR0cHM6Ly93d3cucm95YWxkcmF3LmNvbS9XSU4tYS0zMC1OZXRmbGl4LWVHaWZ0LUNhcmQtRDM2NTI1P3JjYWZpZD1QVDFSVUVwd1dGUT0="
     }
   ]
 }

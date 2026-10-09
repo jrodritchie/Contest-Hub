@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-10-08T13:21:20.500385+00:00",
+  "updated_at": "2026-10-09T13:20:28.362358+00:00",
   "sources_checked": [
+    "Contest Girl",
     "Contest Scoop",
     "Contest Canada",
     "Gleam"
   ],
   "errors": [
-    "Contest Girl: Source was skipped because robots.txt could not be safely verified.",
     "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/"
   ],
   "contests": [
-    {
-      "id": "eb4e09966808",
-      "title": "98.1 CHFI.com Contest: Win $10,000 & Daily $1,000 Cash…",
-      "sponsor": "",
-      "prize": 10000.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/98-1-chfi-com-contests/",
-      "note": "98.1 CHFI.com Contest: Win $10,000 & Daily $1,000 Cash… Contest title: 98.1 CHFI Cash Call Prize: Daily cash prizes from $1,000+, $10,000 monthly cash prize Ends: Oct 29/26 for Oct 30 monthly draw Who: Canada, age of majority, 98.1 CHFI terrestrial listening range How: Text hourly keyword + full name to 981-981 Entry limit: 1/keyword Enter at: Enter at 98.1 CHFI Read More Canada Contests Daily Entry Radio Contests Win Cash Angie B"
-    },
     {
       "id": "e607092c1fa5",
       "title": "BMW Ca Contest: Win BMW M School Track Experience…",
@@ -35,16 +23,16 @@
       "note": "BMW Ca Contest: Win BMW M School Track Experience… Prize: BMW M School Track Experience for 2 in Thermal, California; 2-night Palm Desert hotel stay; $1,000 prepaid card ($7,285) Ends: Dec 18/26 Who: Canada, age 25+ How: Submit entry form; Test drive Neue Klasse vehicle; Opt in for bonus entries Entry limit: 13/person Enter at: Visit BMW Canada Read More Canada Contests Single Entry Win Prize Packs Win trips Angie B"
     },
     {
-      "id": "fddd61f7a789",
-      "title": "98.1 CHFI Jamaica Contest: Win All-inclusive Trip for 2…",
+      "id": "c69283c1f4eb",
+      "title": "Cashmere Collection CA Contest: Vote to Win $5,000 Cash",
       "sponsor": "",
-      "prize": 4500.0,
+      "prize": 5000.0,
       "expiry": "",
       "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/981-chfi-pooja-gurdeeps-jamaica-giveaway/",
-      "note": "98.1 CHFI Jamaica Contest: Win All-inclusive Trip for 2… Contest: Pooja & Gurdeep’s Jamaica “VAH-KAY-SHUNNN” Prize: 5x all-inclusive trip for 2 to Jamaica; round-trip economy airfare; 5-night ocean-view junior suite at Royalton Negril; Nov 7–12/26; approx. $4,500 each Ends: Oct 13/26 Who: ON, age of majority How: Listen for cue; text VACATION + name to 981-981 within 2 minutes Entry limit: Unlimited; 1/cue Enter at: Enter at Seek Your Sounds Read More Canada Contests Daily Entry Trending Contest"
+      "url": "https://www.contestscoop.com/cashmere-canada-contest/",
+      "note": "Cashmere Collection CA Contest: Vote to Win $5,000 Cash Prize: $5,000 CAD Ends: Nov 15/26 Who: Canada, age of majority How: Vote for favourite design + submit form Entry limit: 1 entry/day Enter at: Visit Cashmere Collection Read More Canada Contests Daily Entry Win Cash KIM"
     },
     {
       "id": "402631f10289",
@@ -59,16 +47,16 @@
       "note": "Kiss FM Cruise Contest: Win Caribbean Cruise | Text CRUISE… Prize: 7-day Star Princess Caribbean cruise for 2 + $3,000 flights/hotel Ends: Oct 30/26 Who: ON, age of majority How: Listen for Love Boat horn; text CRUISE to 123321 Entry limit: As instructed on air Enter at: Enter at KiSS Read More Canada Contests Popular Contests Radio Contests Trending Contests Win a Cruise Win trips Angie B"
     },
     {
-      "id": "e4e639ca1f8d",
-      "title": "Global Tv Contest: Win Private Eyes West Coast Escape…",
+      "id": "c7674c96cb30",
+      "title": "Win a $2,000 Trip to Mexico – Vacation Giveaway",
       "sponsor": "",
       "prize": 2000.0,
       "expiry": "",
-      "frequency": "Weekly",
+      "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/globaltv-com-contest/",
-      "note": "Global Tv Contest: Win Private Eyes West Coast Escape… Prize: 4-night Victoria getaway; Hotel Grand Pacific Signature Harbour View Room; $2,000 WestJet E-Gift Card; $500 prepaid Visa; whale watching; Ocean River Sports tour; Pedego Electric Bikes tour; Butchart Gardens experience; CitySights passes; Royal BC Museum & IMAX passes; HAVN Saunas; Fairmont Empress afternoon tea; Victoria food tour; 4 x $150 restaurant gift cards Ends: Dec 8/26 Who: Canada, age of majority How: Watch episode, find wee"
+      "url": "https://www.contestscoop.com/mexico-vacation-giveaway/",
+      "note": "Win a $2,000 Trip to Mexico – Vacation Giveaway Prize: 1 travel voucher for tickets to Mexico ($2,000) Ends: Oct 11/26 Who: Canada, age 19+ How: Submit online form Entry limit: Single entry Enter at: Visit Campari Canada ContestScoop Read More Canada Contests Popular Contests Win trips Angie B"
     },
     {
       "id": "4bfb64503b83",
@@ -83,8 +71,8 @@
       "note": "Sandbanks Winery Contest: Win Getaway to Prince Edward County Contest: Sandbanks Winery 25th Anniversary Weekend Getaway Contest Prize: 2-night Lakeside Motel stay + wine tasting for 2 + Sandbanks Winery gift basket; 25 winners; $1,400 CAD/package Ends: Oct 16/26 Who: Canada, age requirement not specified How: Submit online entry form Entry limit: 1/person/household Enter at: Enter at Sandbanks Winery Read More Canada Contests Trending Contests Win trips Angie B"
     },
     {
-      "id": "a5c58d0a05d2",
-      "title": "Oven Baked Tradition Contest: Win Year of Oven-Baked Tradition…",
+      "id": "0a318abea69f",
+      "title": "Oven Baked Tradition Dog Contest: Win Year of Oven-Baked…",
       "sponsor": "",
       "prize": 1200.0,
       "expiry": "",
@@ -92,19 +80,19 @@
       "eligibility": "Canada",
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/oven-baked-tradition-contest/",
-      "note": "Oven Baked Tradition Contest: Win Year of Oven-Baked Tradition… Prize: 1 year of Oven-Baked Tradition dry food, 12 bags, max. $1,200 each; 20 prizes Ends: Nov 1/26 Who: Canada, age of majority How: Submit online form Entry limit: 1 entry/person Enter at: Enter at Oven-Baked Tradition Read More Canada Contests Win trips Angie B"
+      "note": "Oven Baked Tradition Dog Contest: Win Year of Oven-Baked… Prize: 1 year of Oven-Baked Tradition dry food, 12 bags, max. $1,200 each; 20 prizes Ends: Nov 1/26 Who: Canada, age of majority How: Submit online form Entry limit: 1 entry/person Enter at: Enter at Oven-Baked Tradition Read More Canada Contests Win trips Angie B"
     },
     {
-      "id": "feb3ef8b4e6b",
-      "title": "KISS 92.5 Contests: Win $1,000 KiSS That Pays, Backstreet…",
+      "id": "4c91b3591fc4",
+      "title": "Metro.ca Ontario Moi Contest: Win 125,000 Moi points ($1,000)…",
       "sponsor": "",
       "prize": 1000.0,
       "expiry": "",
       "frequency": "Daily",
-      "eligibility": "Canada",
+      "eligibility": "Ontario",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/kiss925-com-contests/",
-      "note": "KISS 92.5 Contests: Win $1,000 KiSS That Pays, Backstreet… KiSS 92.5 has several contests happening right now, with chances to win cash prizes, Backstreet Boys concert tickets, and $100 OLG Free Play Cards. Read More Canada Contests Daily Entry Monthly Entry Radio Contests Text To Win Win trips KIM"
+      "url": "https://www.contestscoop.com/metro-ontario-contest/",
+      "note": "Metro.ca Ontario Moi Contest: Win 125,000 Moi points ($1,000)… Contest title: Heinz Soups 125,000 Moi Points Contest Prize: 125,000 Moi points ($1,000) Ends: Nov 4/26 Who: ON, age of majority How: Buy participating Heinz Soup + scan Moi card; Mail-in no-purchase entry Entry limit: 1 entry/day Enter at: Visit Metro Read More Back to School Giveaways Canada Contests Daily Entry Win Gift Cards Angie B"
     },
     {
       "id": "890b5d0e7b9b",
@@ -119,6 +107,18 @@
       "note": "Today’s Quick Links Travel Contests Download the app! Win $1,000!"
     },
     {
+      "id": "5ee32a64ac44",
+      "title": "Consiglios Kitchenware Contest: Win Le Creuset Forêt Shallow Oven",
+      "sponsor": "",
+      "prize": 570.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/consiglios-kitchenware-contest/",
+      "note": "Consiglios Kitchenware Contest: Win Le Creuset Forêt Shallow Oven Prize: Le Creuset Forêt 6.2L shallow oven ($570) Ends: Nov 6/26 Who: Canada, 18+ How: Submit online form Entry limit: Single entry Enter at: Visit Consiglio’s Kitchenware Read More Canada Contests Single Entry Win Appliances Angie B"
+    },
+    {
       "id": "9b99f0743528",
       "title": "Peru Travel Giveaway: Win 7 Day Intrepid Adventure Trip…",
       "sponsor": "",
@@ -129,6 +129,18 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/peru-vacation-giveaway/",
       "note": "Peru Travel Giveaway: Win 7 Day Intrepid Adventure Trip… Prize: 7-day Peru trip for 2 + flights + Intrepid Travel adventure + camping/hiking gear + travel packs/jackets + hiking boots + AFAR gift card/subscriptions + $500 Visa gift card Ends: Nov 6/26 Who: USA, Canada except QC, age of majority How: Submit online entry form Entry limit: Single entry Enter at: Enter at PROMPERU Read More Canada Contests Popular Contests Win trips KIM"
+    },
+    {
+      "id": "45cac9aa7edb",
+      "title": "The Weather Network Contest: Win $500 Air Canada gift…",
+      "sponsor": "",
+      "prize": 500.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/the-weather-network-contest/",
+      "note": "The Weather Network Contest: Win $500 Air Canada gift… Prize: $500 Air Canada gift card Ends: Oct 11/26 Who: Canada, age of majority How: Submit online entry form Entry limit: Single entry Enter at: Visit The Weather Network ContestScoop Read More Canada Contests Win trips KIM"
     },
     {
       "id": "b0efeb5ea1f3",
@@ -155,18 +167,6 @@
       "note": "ACANA Petfood Sweepstakes: Win a year’s supply of Dog… Contest title: ACANA Stubbornly Good Sweepstakes Prize: 3 × 12-month ACANA dog food supplies; 50 × $100 ACANA coupons Ends: Nov 30/26 Who: Canada excluding QC, age of majority How: Submit receipt or mail-in entry Entry limit: 10/person Enter at: Enter at ACANA Read More Canada Contests Sweepstakes Angie B"
     },
     {
-      "id": "57b815e19257",
-      "title": "Purdys Halloween Contest: Play Games & Win $100 Purdys…",
-      "sponsor": "",
-      "prize": 100.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/purdys-com-halloween-contest/",
-      "note": "Purdys Halloween Contest: Play Games & Win $100 Purdys… Prize: 12 × $100 Purdys e-gift cards Ends: Oct 9/26 Who: Canada, 18+ How: Play daily game Entry limit: 1 entry/day Enter at: Enter at Purdys Chocolatier Read More Canada Contests Daily Entry Angie B"
-    },
-    {
       "id": "8e10097e743f",
       "title": "Kinder Canada Contest: Win KINDER Halloween Treat Box",
       "sponsor": "",
@@ -189,30 +189,6 @@
       "source": "Gleam",
       "url": "https://gleamgiveaways.com/gleam-giveaways/",
       "note": "Popular Gleam Giveaways Giveaway Secret Codes Win Free Gift Cards Win Free Cash Win a Free Vacation Giveaways Under $50 Unverified Giveaways Browse by Platform Gleam SweepWidget KingSumo ViralSweep"
-    },
-    {
-      "id": "145078d434de",
-      "title": "Global Pet Foods Contest: Win $50 Gift Card &…",
-      "sponsor": "",
-      "prize": 50.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/global-pet-foods-canada-contest/",
-      "note": "Global Pet Foods Contest: Win $50 Gift Card &… Contest: Crumps’ Naturals Treat of the Month Contest Prize: FREE Crumps’ Naturals Treat coupon + $50 Global Pet Foods gift card x2 Ends: Oct 26/26 Who: Canada How: Like post + comment Global Pet Foods location; bonus tag Entry limit: Not stated Enter at: Visit Global Pet Foods Instagram: See Instagram contest Read More Canada Contests Facebook Instagram Win Gift Cards Angie B"
-    },
-    {
-      "id": "3090fd1dd225",
-      "title": "Dairy Queen Rewards Contest: Win 40,550 Canadian Instant Win…",
-      "sponsor": "",
-      "prize": 20.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/dairy-queen-canada-contest/",
-      "note": "Dairy Queen Rewards Contest: Win 40,550 Canadian Instant Win… Contest title: DQ Spellbound: Secret Lair Prize: DQ gift cards up to $20 CAD; 25, 50, 75 or 100 DQ Rewards points; 40,550 Canadian Instant Win prizes Ends: Nov 1/26 Who: Canada excluding QC, age 18+ How: Register in DQ App, Login & play Entry limit: 1 entry/day Enter at: Enter at Dairy Queen Read More Canada Contests Instant Prizes Sweepstakes Win Gift Cards Angie B"
     },
     {
       "id": "74a981708740",
@@ -263,6 +239,18 @@
       "note": "Quick Links All Giveaways GleamGiveaways Blog Submit a Giveaway Get Giveaway Alerts Privacy Policy"
     },
     {
+      "id": "d582e8d616b2",
+      "title": "Appreciate if you could give it daily. Thanks a lo...",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/06/win-a-50-tv-3/comment-page-1/#comment-1013668",
+      "note": "Anna Ngo said Appreciate if you could give it daily. Thanks a lo..."
+    },
+    {
       "id": "4f6b38521a0d",
       "title": "Canadian Contests",
       "sponsor": "",
@@ -299,6 +287,18 @@
       "note": "Categories Expand Cash & Valuables 💵 Cash & Gift Cards 💍 Jewelry & Watches 🪙 Gold & Precious Metals ⛓️ Crypto Tech & Gaming 💻 Electronics & Gadgets 🎮 Gaming 📷 Photography & Cameras Home & Hobbies 🏠 Home, Furniture & Appliances 🔧 Tools & Hardware 🪴 Patio & Garden 🎨 Arts & Crafts Fashion & Beauty 💄 Health & Beauty 👕 Clothing, Shoes & Accessories Entertainment 🎬 Movies, Music & Books 🎤 Concerts & Live Entertainment 🎸 Musical Instruments & Gear Sports & Travel 🏆 Sports, Fitness & Outdoors ✈️ Travel "
     },
     {
+      "id": "cc2d34379e53",
+      "title": "Chch.com Morning Live Giveaways: Win Bountiful Gift Box",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/chch-com-giveaways/",
+      "note": "Chch.com Morning Live Giveaways: Win Bountiful Gift Box Prize: Bountiful Gift Box with kitchenware, accessories, linens, baking ingredients, artisan foods and packaged treats Ends: Oct 11/26 Who: Eligibility and age requirements not specified How: Submit online form Entry limit: Not specified Enter at: Enter at CHCH Read More Canada Contests Win Beauty Prizes Win Gift Cards Win Prize Packs Angie B"
+    },
+    {
       "id": "dbe2dee62b24",
       "title": "Contest Canada",
       "sponsor": "",
@@ -333,18 +333,6 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/2026/10/03/win-1-of-584-tcl-50-4k-tvs-valued-at-500/comment-page-1/#comment-1013644",
       "note": "Louise Claveau said Dans quel commerce on peut se procurer un bulletin..."
-    },
-    {
-      "id": "827b91ac65a9",
-      "title": "Does anyone have some keywords they want to share....",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/28/win-a-2026-nissan-sentra-10000-valued-at-39468/comment-page-1/#comment-1013627",
-      "note": "Jamillah Ross said Does anyone have some keywords they want to share...."
     },
     {
       "id": "4fbb9bd59343",
@@ -429,6 +417,30 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/free-samples-giveaway/",
       "note": "FREEBIES Free Stuff to order today Newsletter Contest Submit"
+    },
+    {
+      "id": "7b81aeba08cb",
+      "title": "FYI you have 24 hours after the show to enter the...",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/07/win-a-4-night-trip-to-victoria-bc-with-flights-hotel-gift-card-activity-package-valued-at-10000/comment-page-1/#comment-1013666",
+      "note": "SHERRY ZUROWSKI said FYI you have 24 hours after the show to enter the..."
+    },
+    {
+      "id": "f6cb632636c2",
+      "title": "Hoover Contest: Win Hoover CleanSlate Spot Cleaner",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/hoover-canada-contest/",
+      "note": "Hoover Contest: Win Hoover CleanSlate Spot Cleaner Prize: 1 Hoover CleanSlate Spot Cleaner Ends: Oct 11/26 Who: Canada, age requirement not stated How: Like post, follow page, tag 3 friends Entry limit: Not stated Enter at: Enter at Hoover Canada Read More Canada Contests Facebook Instagram Win Appliances Angie B"
     },
     {
       "id": "f6e733b1336b",
@@ -587,18 +599,6 @@
       "note": "Reviews & Recommendations"
     },
     {
-      "id": "da0a665a2f83",
-      "title": "Seems ok for me. I’m using Chrome on PC",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/09/27/win-1-of-5-grocery-gift-cards-valued-at-250-2/comment-page-1/#comment-1013625",
-      "note": "contestc said Seems ok for me. I’m using Chrome on PC"
-    },
-    {
       "id": "f5e1216f414b",
       "title": "Sorry to hear folks are having issues with this on...",
       "sponsor": "",
@@ -611,6 +611,18 @@
       "note": "contestc said Sorry to hear folks are having issues with this on..."
     },
     {
+      "id": "89187f52dbe4",
+      "title": "Sorted by Posted Date",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Girl",
+      "url": "https://www.contestgirl.com/contests/contests.pl?ar=na&b=nb&c=ca&f=d&s=_&sort=p#",
+      "note": "Sorted by Posted Date Sort by Expiry Date Sort by Most Valuable Sort by Most Popular Sort by Most Comments"
+    },
+    {
       "id": "e2651bf1cc8c",
       "title": "Subscribe Free",
       "sponsor": "",
@@ -621,18 +633,6 @@
       "source": "Contest Canada",
       "url": "https://landingmail.com/subscribe/jhm8njbna31d",
       "note": "Daily Updates Get new contests delivered to your inbox every day. Never miss a giveaway. Subscribe Free Get the App 🍎 Coming soon to the App Store ▶ Get it on Google Play"
-    },
-    {
-      "id": "3db659b9d67a",
-      "title": "Sunrise Records Contests: Win Copy of Supergirl in 4K…",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/sunrise-records-contest/",
-      "note": "Sunrise Records Contests: Win Copy of Supergirl in 4K… Prize: 3 × Supergirl 4K UHD Steelbook Ends: Oct 12/26 Who: Canada, age of majority How: Submit entry form + answer skill-testing question Entry limit: Single entry Enter at: Visit Sunrise Records Read More Canada Contests Angie B"
     },
     {
       "id": "68e5710afd56",
@@ -657,6 +657,18 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/2026/10/06/win-a-1-night-stay-at-the-fallsview-hotel-in-niagara-falls-ont-with-activity-package-valued-at-1200/comment-page-1/#comment-1013658",
       "note": "Laura said The wheel didn’t appear for me to spin"
+    },
+    {
+      "id": "e6243da34f17",
+      "title": "Webber Naturals Contest: Win New Supplements Gift and Restful…",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/webber-naturals-canada-contest/",
+      "note": "Webber Naturals Contest: Win New Supplements Gift and Restful… Prize: 9 new Webber Naturals supplements, Hydro Flask Travel Tumbler, Saje Restful Sleep Kit Ends: Oct 14/26 Who: Canada, excluding QC How: Like, share to Story, tag a friend, follow @webbernaturals Entry limit: Not specified Enter at: Visit Webber Naturals Read More Canada Contests Health & Wellness Prizes Instagram Win Prize Packs Angie B"
     },
     {
       "id": "e67abb5db9f0",
@@ -791,124 +803,124 @@
       "note": "🧸 Toys, Games & Collectibles"
     },
     {
-      "id": "4a16f3f62e59",
-      "title": "Win a 4-night trip to Victoria, BC with flights, hotel, gift card & activity package valued at $10,000",
+      "id": "e6cb97116fea",
+      "title": "Win a 2-night trip to a Stanley Cup final game with flights, accommodations, cash, gift card & NHL tickets valued at $10,000 or 1 of 5 prizes of Scene+ points",
       "sponsor": "",
-      "prize": 24000.0,
-      "expiry": "December 3, 2026",
+      "prize": 10000.0,
+      "expiry": "April 8, 2027",
       "frequency": "Weekly",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-a-4-night-trip-to-victoria-bc-with-flights-hotel-gift-card-activity-package-valued-at-10000/",
-      "note": "October 7th, 2026 Win a 4-night trip to Victoria, BC with flights, hotel, gift card & activity package valued at $10,000 We have over $24,000 in new contest prizes today. For this first one, watch Global TV for weekly clues on Wednesdays and enter them weekly for a chance to win. The prize is a great trip to Victoria BC, including flights, hotel, gift card and activity package ($10,000 value). Entry Frequency: weekly Trivia/Product question response required Expires: December 3, 2026 https://www"
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-2-night-trip-to-a-stanley-cup-final-game-with-flights-accommodations-cash-gift-card-nhl-tickets-valued-at-10000-or-1-of-5-prizes-of-scene-points/",
+      "note": "Win a 2-night trip to a Stanley Cup final game with flights, accommodations, cash, gift card & NHL tickets valued at $10,000 or 1 of 5 prizes of Scene+ points You must use the Safeway app to enter this one, and you can enter weekly. The top prize is a trip to a Stanley Cup final game, including flights, hotel, cash, gift card and tickets ($10,000 value). Or you can win 1 of 5 prizes of Scene+ points valued at $500 to $1,500. Entry Frequency: weekly Not open to: QC Membership required Expires: Ap"
     },
     {
-      "id": "969bd9af8d8e",
-      "title": "Win 1 of 2 Hydroponic growing systems valued at $1,100 to $1,200",
+      "id": "59e85c8a849c",
+      "title": "Win a 2-night trip to a Stanley Cup final game with flights, hotel, cash, gift card & NHL tickets valued at $10,000 or 1 of 5 other prizes",
       "sponsor": "",
-      "prize": 1200.0,
-      "expiry": "November 11, 2026",
+      "prize": 10000.0,
+      "expiry": "April 8, 2027",
+      "frequency": "Weekly",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-2-night-trip-to-a-stanley-cup-final-game-with-flights-hotel-cash-gift-card-nhl-tickets-valued-at-10000-or-1-of-5-other-prizes/",
+      "note": "Win a 2-night trip to a Stanley Cup final game with flights, hotel, cash, gift card & NHL tickets valued at $10,000 or 1 of 5 other prizes You must use the Sobeys app to enter this cone, and you can enter weekly. The top prize is a trip to a Stanley Cup final game, including flights, hotel, cash, gift card and tickets ($10,000 value). Or you can win 1 of 5 prizes of Scene+ points valued at $500 to $1,500. Entry Frequency: weekly Not open to: QC Membership required Expires: April 8, 2027 https://"
+    },
+    {
+      "id": "9b4a4915517b",
+      "title": "Win an NFL trip including flights, hotel and tickets, or a weekly prize of $500 in gift cards",
+      "sponsor": "",
+      "prize": 500.0,
+      "expiry": "December 31, 2026",
+      "frequency": "Weekly",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/08/win-an-nfl-trip-including-flights-hotel-and-tickets-or-a-weekly-prize-of-500-in-gift-cards-2/",
+      "note": "Win an NFL trip including flights, hotel and tickets, or a weekly prize of $500 in gift cards The Sports Geek is awarding prizes for top NFL picks each week, with a grand prize of a trip to an NFL game including flights, hotel and tickets. Entry Frequency: weekly Expires: December 31, 2026 https://www.thesportsgeek.com/contests/beat-the-geek/"
+    },
+    {
+      "id": "dace92317683",
+      "title": "Win a Visa gift card & pair of Buffalo Sabres NHL tickets valued at $2,200",
+      "sponsor": "",
+      "prize": 2200.0,
+      "expiry": "October 10, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-1-of-2-hydroponic-growing-systems-valued-at-1100-to-1200/",
-      "note": "Win 1 of 2 Hydroponic growing systems valued at $1,100 to $1,200 Growers, you can win 1 of 2 hydroponic systems worth either $1,100 or $1,200. Entry Frequency: single Expires: November 11, 2026 https://sweepwidget.com/c/102609-7kcadt8j"
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-visa-gift-card-pair-of-buffalo-sabres-nhl-tickets-valued-at-2200/",
+      "note": "Win a Visa gift card & pair of Buffalo Sabres NHL tickets valued at $2,200 You can win a $2,000 Visa gift card and a pair of Buffalo Sabres tickets ($2,200 total value). Entry Frequency: single Not open to: QC Expires: October 10, 2026 https://web.witcontests.com/sabres/sweepstakes/win/on-the-road-260928"
     },
     {
-      "id": "cd7117cc16f8",
-      "title": "Win $5,000",
+      "id": "957a6259c9ee",
+      "title": "Win a No Frills gift card valued at $500 (IG)",
+      "sponsor": "",
+      "prize": 500.0,
+      "expiry": "October 13, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-no-frills-gift-card-valued-at-500-ig/",
+      "note": "Win a No Frills gift card valued at $500 (IG) Try this Instagram contest from @nofrillsca for a chance to win a $500 gift card. Entry Frequency: single Not open to: QC Expires: October 13, 2026 https://www.instagram.com/nofrillsca/p/DeHl4i3lx50/?hl=en"
+    },
+    {
+      "id": "d5957c9180c5",
+      "title": "Win 1 of 3 Winners/Marshalls/Homesense gift cards valued at $150, $100, and $50",
+      "sponsor": "",
+      "prize": 150.0,
+      "expiry": "October 13, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/08/win-1-of-3-winners-marshalls-homesense-gift-cards-valued-at-150-100-and-50/",
+      "note": "Win 1 of 3 Winners/Marshalls/Homesense gift cards valued at $150, $100, and $50 Take the SPOOK-TACULAR “Which Villain Are You?” personality test and discover your villainous counterpart! Up for grabs this month are 3 Winners/Homesense/Marshalls gift cards ($150, $100, and $50)! To enter, take the quiz and fill out the form. Tell us, in the comments of our Facebook, Instagram, Threads, Twitter, or TikTok pages (or as many of them as possible!), which villain you are for additional entries! Entry "
+    },
+    {
+      "id": "5c335bb7557c",
+      "title": "Win a trip to the Azores Islands (Portugal) valued at $16,000",
+      "sponsor": "",
+      "prize": 16000.0,
+      "expiry": "October 18, 2026",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-trip-to-the-azores-islands-portugal-valued-at-16000/",
+      "note": "Win a trip to the Azores Islands (Portugal) valued at $16,000 Enter this contest from the Weather Network for a chance to win a trip to Portugal’s beautiful Azores Islands ($16,000 value). Entry Frequency: single Not open to: QC Expires: October 18, 2026 https://www.theweathernetwork.com/en/explore/collette"
+    },
+    {
+      "id": "4b5ab0c4bc51",
+      "title": "Win 1 of 2 3-night trips to a Canadian location (TBD) with flights, accommodations & cash valued at $5,000",
       "sponsor": "",
       "prize": 5000.0,
-      "expiry": "November 15, 2026",
+      "expiry": "October 18, 2026",
       "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-5000-248/",
-      "note": "Win $5,000 Those folks at Kruger are at it again. A new contest starts tonight and you can win the big prize of $5,000. Entry Frequency: daily Expires: November 15, 2026 https://mykrugerproducts.ca/en-ca/cashmere/committed-our-community/cashmere-collection/cashmere-collection-2026"
+      "url": "https://www.contestcanada.net/2026/10/08/win-1-of-2-3-night-trips-to-a-canadian-location-tbd-with-flights-accommodations-cash-valued-at-5000/",
+      "note": "Win 1 of 2 3-night trips to a Canadian location (TBD) with flights, accommodations & cash valued at $5,000 Quebec residents, you can win 1 of 2 trips to a TBD Canadian location, including flights, hotel and cash ($5,000 value). Entry Frequency: daily Open to: QC Expires: October 18, 2026 https://nosconcours.lapresse.ca/T/WF/38093/xykIKs/Register/fr-CA/Form.ofsys"
     },
     {
-      "id": "86e81561b717",
-      "title": "Win a travel voucher to Mexico valued at $2,000",
+      "id": "b4609b5a0285",
+      "title": "Win a 1-week trip to New Zealand with flights, accommodations, tours & more valued at $40,000",
       "sponsor": "",
-      "prize": 2000.0,
-      "expiry": "October 11, 2026",
+      "prize": 96000.0,
+      "expiry": "October 21, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-a-travel-voucher-to-mexico-valued-at-2000/",
-      "note": "Win a travel voucher to Mexico valued at $2,000 You can win $2,000 to spend on a trip to Mexico. Muy divertido! Entry Frequency: single Expires: October 11, 2026 https://www.espolontequila.com/en-ca/trip-to-mexico-contest-2026/"
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-1-week-trip-to-new-zealand-with-flights-accommodations-tours-more-valued-at-40000/",
+      "note": "October 8th, 2026 Win a 1-week trip to New Zealand with flights, accommodations, tours & more valued at $40,000 We have over $96,000 in prizes in today’s contests! Let’s start with a big one… you can win a 1-week trip to New Zealand that includes flights, accommodations, tours and more ($40,000 value). NOTE: flights are out of Vancouver. Entry Frequency: single Not open to: QC Expires: October 21, 2026 https://www.airnewzealand.ca/nz-sweeps"
     },
     {
-      "id": "6178cc08befd",
-      "title": "Win a Northern Raised gift card valued at $500",
+      "id": "4cb927831dc0",
+      "title": "Win a 2-night trip to Los Angeles with flights, hotel & My Chemical Romance concert tickets valued at $6,600",
       "sponsor": "",
-      "prize": 500.0,
-      "expiry": "October 11, 2026",
+      "prize": 6600.0,
+      "expiry": "October 22, 2026",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-a-northern-raised-gift-card-valued-at-500/",
-      "note": "Win a Northern Raised gift card valued at $500 Ontarians, you can win a $500 gift card from Northern Raised, a meat delivery service. Entry Frequency: single Open to: ON Expires: October 11, 2026 https://www.northernraised.ca/pages/toronto-sauna-fest-2026"
-    },
-    {
-      "id": "fec2e362af8d",
-      "title": "Win a St Laurent Centre shopping spree valued at $500",
-      "sponsor": "",
-      "prize": 500.0,
-      "expiry": "October 11, 2026",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-a-st-laurent-centre-shopping-spree-valued-at-500/",
-      "note": "Win a St Laurent Centre shopping spree valued at $500 ON and QC residents, you can win a shopping spree at St Laurent shopping centre, valued at $500. Entry Frequency: daily Open to: ON, QC Expires: October 11, 2026 https://www.ctvnews.ca/ottawa/contests/win-a-500-shopping-spree-to-st-laurent-centre-fall-2026/"
-    },
-    {
-      "id": "967b152bd8fa",
-      "title": "Win 1 of 4 Miller Lite coolers valued at $625",
-      "sponsor": "",
-      "prize": 625.0,
-      "expiry": "October 12, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-1-of-4-miller-lite-coolers-valued-at-625/",
-      "note": "Win 1 of 4 Miller Lite coolers valued at $625 You can win 1 of 4 Miller Lite-branded coolers, each valued at $625. Entry Frequency: single Not open to: QC Expires: October 12, 2026 https://www.millerlite.ca/en-CA/av?url=https://www.millerlite.ca/en-CA/thegamesaver"
-    },
-    {
-      "id": "ef323cf3cf2c",
-      "title": "Win a Walmart gift card & Good Leaf gift card valued at $600",
-      "sponsor": "",
-      "prize": 600.0,
-      "expiry": "October 12, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-a-walmart-gift-card-good-leaf-gift-card-valued-at-600/",
-      "note": "Win a Walmart gift card & Good Leaf gift card valued at $600 @goodleaffarms has an Instagram contest with a prize of Walmart and Good Leaf gift cards valued at $500. Entry Frequency: unlimited Expires: October 12, 2026 https://www.instagram.com/goodleaffarms/reel/Dd1iEpmN9Wk/"
-    },
-    {
-      "id": "1af8485c7dd5",
-      "title": "Win 1 of 3 copies of “Supergirl” on 4K Steelbook valued at $50",
-      "sponsor": "",
-      "prize": 50.0,
-      "expiry": "October 12, 2026",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-1-of-3-copies-of-supergirl-on-4k-steelbook-valued-at-50/",
-      "note": "Win 1 of 3 copies of “Supergirl” on 4K Steelbook valued at $50 You can win 1 of 3 Steelbook-edition copies of the Supergirl movie, valued at $50. Entry Frequency: single Expires: October 12, 2026 https://woobox.com/jnmqys"
-    },
-    {
-      "id": "8e8509d8334d",
-      "title": "Win 1 of 5 Rexall gift cards valued at $100",
-      "sponsor": "",
-      "prize": 100.0,
-      "expiry": "October 15, 2026",
-      "frequency": "Monthly",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/07/win-1-of-5-rexall-gift-cards-valued-at-100/",
-      "note": "Win 1 of 5 Rexall gift cards valued at $100 Union members, if you belong to belong to UFCW Locals 175 & 633, you can enter for a chance to win 1 of 5 $100 Rexall gift cards. Entry Frequency: single Not open to: QC Membership required Expires: October 15, 2026 https://ufcw175.com/monthly-online-contests/"
+      "url": "https://www.contestcanada.net/2026/10/08/win-a-2-night-trip-to-los-angeles-with-flights-hotel-my-chemical-romance-concert-tickets-valued-at-6600/",
+      "note": "Win a 2-night trip to Los Angeles with flights, hotel & My Chemical Romance concert tickets valued at $6,600 Wanna join the Black Parade? You can see MCR live in LA, including flights, hotel, and concert tickets valued at $6,600. Members can sign in to enter, and non-members can use the postal mail option. Entry Frequency: single Expires: October 22, 2026 https://fanpass.ca/featured/my-chemical-romance?ref=social-linkinbio-MCRwarnermusic"
     }
   ]
 }

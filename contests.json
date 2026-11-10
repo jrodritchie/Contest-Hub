@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:56:04.548383+00:00",
+  "updated_at": "2026-11-10T20:23:24.105781+00:00",
   "sources_checked": [
     "Contest Girl",
     "Contest Scoop",
@@ -11,16 +11,28 @@
   ],
   "contests": [
     {
-      "id": "c7e9b8c10e9e",
-      "title": "Win Team trip to 2027 Memorial Cup in Kelowna…",
+      "id": "1c1097268408",
+      "title": "Win $1045 Daily & $104,500 Cash Prize in Chum’s…",
       "sponsor": "",
-      "prize": 141000.0,
+      "prize": 104500.0,
       "expiry": "",
       "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/giuseppe-contest-by-dr-oetker/",
-      "note": "Win Team trip to 2027 Memorial Cup in Kelowna… Prize: 1 team trip to 2027 Memorial Cup with P.K. Subban practice and pizza party ($141,000); 15 CHL jerseys ($300 each); 102 free pizza coupons ($8 each) Ends: Feb 26/27 Who: Canada, age 13+ with parental consent if under age of majority; Hockey Canada-recognized minor hockey teams How: Submit nomination with 150–500-word story or 30–60-second video; daily entry without nomination available Entry limit: 1 entry/day/person Enter at: Enter at Giusepp"
+      "url": "https://www.contestscoop.com/chum-104-5-contests/",
+      "note": "Win $1045 Daily & $104,500 Cash Prize in Chum’s… Prize: $104,500 jackpot + daily $1,045 prizes Ends: Nov 30/26 Who: ON, 18yrs+ How: Listen for hourly keyword; text keyword + full name to 104536 Entry limit: 1 entry/keyword; multiple keywords Enter: Visit CHUM 104.5 Read More Canada Contests Daily Entry Radio Contests Text To Win Win Cash KIM"
+    },
+    {
+      "id": "8636a5b7b62f",
+      "title": "Win 1 of 5 Florida Vacations | Wheel Of Fortune",
+      "sponsor": "",
+      "prize": 40363.24,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/wheel-of-fortune-sweepstakes/",
+      "note": "Win 1 of 5 Florida Vacations | Wheel Of Fortune Prize: 5 Florida trips for 4 (Treasure Coast, St. Pete-Clearwater, Kissimmee, Pensacola, Tampa Bay); Wheel of Fortune shirt & hat. Total ARV US$40,363.24 Ends: Nov 21/26 Draw: Dec 4/26 (individual draws) Who: USA, D.C. & Canada (excl. QC), age of majority How: Join Wheel Watchers Club, login & select episode(s) Entry limit: 1 entry/person/email per individual sweepstakes Enter at: Enter at Wheel of Fortune Read More Canada Contests Play to Win Swee"
     },
     {
       "id": "5dd65fd67f62",
@@ -35,18 +47,6 @@
       "note": "Win Trip for 4 to 2027 Australian Open, Melbourne… Prize: Trip for 4 to Melbourne, airfare, 5-night hotel, 4 quarter-final tickets, 4 grounds passes, behind-the-scenes tour, $2,000 spending money ($22,000 value) Ends: Nov 22/26 Draw: Nov 23/26 Who: Canada, age of majority How: Complete online entry form Entry limit: 1 entry/day Enter at: Visit iHeartRadio Read More Canada Contests Radio Contests Win trips KIM"
     },
     {
-      "id": "5ae5f62835c9",
-      "title": "Win Trip for 2 to Japan with Sapporo &…",
-      "sponsor": "",
-      "prize": 15000.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/stlouis-wings-contest/",
-      "note": "Win Trip for 2 to Japan with Sapporo &… Prize: Trip for 2 to Japan, return flights, 7 nights’ accommodation and $500 spending money ($15,000) Ends: Dec 20/26 Who: AB, MB, ON, NS, NB, PE; legal drinking age How: Enter online with PIN or mail handwritten letter Entry limit: Mail-in: 1 entry/day; online limit not specified Enter at: Visit Sapporo Read More Canada Contests Daily Entry Win Prize Packs Win trips Angie B"
-    },
-    {
       "id": "ec9c7542d325",
       "title": "680 City NEWS Contests: Win $680 Payday & Weather…",
       "sponsor": "",
@@ -57,6 +57,18 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/680-news-contests/",
       "note": "680 City NEWS Contests: Win $680 Payday & Weather… Prize: 15 x $680 cash cheques ($10,200 total) Ends: Nov 27/26 Who: Canada, age of majority, 680 NewsRadio listening range How: Listen for keywords & text keyword + full name to 680680 Entry limit: Unlimited; each keyword once per hourly window Enter: Text 680680 Read More Canada Contests Daily Entry Win Cash Angie B"
+    },
+    {
+      "id": "1df0a5bdac04",
+      "title": "Nestle Cozy Contest: Win $10,000 Cash |Carnation, Nesquik, Coffee…",
+      "sponsor": "",
+      "prize": 10000.0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/nestle-made-with-nestle-contest/",
+      "note": "Nestle Cozy Contest: Win $10,000 Cash |Carnation, Nesquik, Coffee… Prize: 1 × $10,000 cash cheque Value: $10,000 Ends: Jan 31/27 Draw: Feb 3/27 Who: Canada, age of majority How: Upload receipt (2+ qualifying products) or mail-in entry Entry limit: 5/person and 5/household Enter at: Visit Nestlé Read More Canada Contests Daily Entry Win Cash KIM"
     },
     {
       "id": "eb2f8c14ad44",
@@ -71,16 +83,28 @@
       "note": "Win a Dream Wilderness Trip with Black Feather, $10,000 Prize: 2 Canadian wilderness trips, up to $10,000 each Draw: On or before Mar 1/27 Ends: Dec 31/26 Who: Canada, age of majority How: Complete online entry form or mail entry Entry limit: Single entry Enter: Visit Explore Magazine Read More Canada Contests Win Gift Cards Win trips Angie B"
     },
     {
-      "id": "6f120a294e11",
-      "title": "Win a Hockey Hall of Fame VIP Weekend and…",
+      "id": "2b342ef1ad02",
+      "title": "Win a 7-Night All-Inclusive Bahamas Vacation for Two with…",
       "sponsor": "",
-      "prize": 5200.0,
+      "prize": 6038.0,
       "expiry": "",
-      "frequency": "Monthly",
+      "frequency": "Daily",
+      "eligibility": "Ontario",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/z1035-com-toronto-contests/",
+      "note": "Win a 7-Night All-Inclusive Bahamas Vacation for Two with… Prize: 7-day all-inclusive Bahamas vacation for 2, airfare, airport transfers, island excursion; approx. $6,038 Ends: Nov 13/26 Who: Ontario, age 21+, valid passport How: Listen for daily keywords & submit online Entry limit: 1/keyword, 4/day, 20 total Enter at: Visit Z103.5 Read More Canada Contests Radio Contests Text To Win Win trips Angie B"
+    },
+    {
+      "id": "a31efea64083",
+      "title": "BMO Blue Rewards Contest: Win KitchenAid Prize Packs ($5,009)",
+      "sponsor": "",
+      "prize": 5009.9,
+      "expiry": "",
+      "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/ducks-canada-contest/",
-      "note": "Win a Hockey Hall of Fame VIP Weekend and… Prize: $5,200 VIP Hockey Hall of Fame Weekend; monthly $460 prize packs x 5 Value: Approx. $5,200 grand prize; $460 monthly Ends: Mar 31/27 Who: Canada, age of majority How: Submit online entry form Entry limit: Not specified Enter: Visit Ducks Unlimited Canada Read More Canada Contests Monthly Entry KIM"
+      "url": "https://www.contestscoop.com/bmo-blue-rewards-contest/",
+      "note": "BMO Blue Rewards Contest: Win KitchenAid Prize Packs ($5,009) Prize: 2 KitchenAid prize packs with 10 appliances/accessories each ($5,009.90 each) End Date: Nov 30/26 Draw Date: Dec 7/26 Who: Canada, age 16+, Blue Rewards members How: Redeem 315 points or free email entry with 50-word essay Entry Limit: 10 entries/member Enter: Visit Blue Rewards Read More Canada Contests Win Appliances Angie B"
     },
     {
       "id": "0880bd0e8904",
@@ -95,28 +119,28 @@
       "note": "Win $5,000 Holt Renfrew Gift Card Giveaway The Holt Renfrew Centre is adding a little extra excitement to Lunar New Year celebrations with a stylish Instagram giveaway that feels perfectly on theme for fresh starts and new energy. Read More Canada Contests Win Gift Cards Win Shopping Sprees Angie B"
     },
     {
-      "id": "e11993b0cbeb",
-      "title": "Win 7-night Caribbean Cruise on Legend of the Seas,…",
+      "id": "9e0065a9a2a9",
+      "title": "Win Trip to Backstreet Boys in Toronto |KISS 91.7…",
       "sponsor": "",
-      "prize": 3468.0,
+      "prize": 5000.0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/kiss-91-7-edmonton-radio-contests/",
+      "note": "Win Trip to Backstreet Boys in Toronto |KISS 91.7… Prize: 4 × 2 Backstreet Boys tickets + $3,000 cheque each (approx. $5,000 each) Ends: Nov 22/26 Who: Alberta, age 18+, within KiSS 91.7 broadcast radius How: Listen for on-air cue & text keyword to 917-917 within 2 minutes Entry limit: Unlimited; 1 text per contest occasion Enter at: Visit KiSS 91.7 ContestScoop Read More Canada Contests Daily Entry Radio Contests Text To Win Win Cash Angie B"
+    },
+    {
+      "id": "13afa0ab358f",
+      "title": "Win $150 Indigo e-gift cards | Indigo Reader’s Choice",
+      "sponsor": "",
+      "prize": 3000.0,
       "expiry": "",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/royal-caribbean-cruise-sweepstakes/",
-      "note": "Win 7-night Caribbean Cruise on Legend of the Seas,… Prize: 7-night Caribbean cruise for 2 on Legend of the Seas, $500 USD Royal Caribbean gift card ARV: $3,468 USD Ends: Nov 15/26 Who: Canada (excl. QC), 21+ How: Follow, comment score, tag a friend, use hashtag Entry limit: Single entry Enter at: Visit Royal Caribbean Read More Canada Contests Sweepstakes Win a Cruise Win trips Angie B"
-    },
-    {
-      "id": "7c1a7c45dded",
-      "title": "Win Steak Dinners For A Year Giveaway from Chop…",
-      "sponsor": "",
-      "prize": 1600.0,
-      "expiry": "",
-      "frequency": "Monthly",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/chop-steakhouse-contest/",
-      "note": "Win Steak Dinners For A Year Giveaway from Chop… Prize: 12 monthly steak dinners for two + 2 Stella Artois pints per visit ($1,600 value) ARV: $1,600 End Date: Nov 20/26 Draw Date: Nov 23/26 Who: Canada, age 18+ Entry Limit: 1 entry/day Enter: Enter at CHOP Restaurants Read More Canada Contests Win Gift Cards Angie B"
+      "url": "https://www.contestscoop.com/chapters-indigo-ca-contest/",
+      "note": "Win $150 Indigo e-gift cards | Indigo Reader’s Choice Prize: 20 × $150 Indigo e-gift cards ($3,000 total) Ends: Nov 16/26 Who: Canada, age of majority How: Submit favourite book title, author and contact details Entry limit: 1 English + 1 French entry/day Draw: Nov 23/26 Enter at: Visit Indigo Read More Canada Contests Win Gift Cards Angie B"
     },
     {
       "id": "890b5d0e7b9b",
@@ -155,18 +179,6 @@
       "note": "Win Dinner in Paris Steelite Prize package, $1,000 |… Prize: 1 Dinner in Paris Steelite prize package ($1,000 CAD) Ends: Nov 10/26 Who: Canada & US, age 18+ How: Submit online entry form Entry limit: 1 entry/day Enter: Visit Gusto TV Read More Back to School Giveaways Canada Contests Single Entry Sweepstakes KIM"
     },
     {
-      "id": "406a636fffad",
-      "title": "Win Free Subs For A Year from Mr.Sub",
-      "sponsor": "",
-      "prize": 723.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/mr-sub-canada-contest/",
-      "note": "Win Free Subs For A Year from Mr.Sub Prize: 52 Large Subs ($723 total value) Ends: Nov 30/26 Who: Canada (excluding QC), age of majority How: Join Rewards; purchase or mail-in entry Entry limit: 1 entry/day Enter at: Visit MR.SUB Read More Canada Contests Win Gift Cards KIM"
-    },
-    {
       "id": "e561c480b33d",
       "title": "Win Vitamix 5200 blender, $700+",
       "sponsor": "",
@@ -201,6 +213,18 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/works-burger-contest/",
       "note": "Works Burger Contest: Win $500 Gift Card | Create… Prize: 5 x $100 WORKS gift cards; 1 x $500 gift card (monthly burgers for a year); opportunity for winning burger to be featured on the menu Who: ON, age of majority How: Create a burger, name it & submit entry form Entry limit: Unlimited; 1 weekly prize per household Ends: Dec 6/26 Enter at: Visit The WORKS Read More Canada Contests Win Gift Cards Angie B"
+    },
+    {
+      "id": "5e41d2a7f461",
+      "title": "Win $250 Kitchen Stuff Plus Gift Cards from CP24.com",
+      "sponsor": "",
+      "prize": 250.0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Ontario",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/cp24-contest/",
+      "note": "Win $250 Kitchen Stuff Plus Gift Cards from CP24.com Tune in to watch live and don’t forget to enter one of the current CP24 giveaways featured right now for a chance to win exciting prizes including free cash, vacation trips, and more. Eligibility: Open to residents of Ontario. Entry Dates: Ongoing giveaways are available throughout the promotion period. How to Enter: 1. Visit Enter the CP24 Contests Here . 2. Browse the active giveaways listed on the page. Read More Canada Contests Daily Entry"
     },
     {
       "id": "0117d9132538",
@@ -285,18 +309,6 @@
       "source": "Gleam",
       "url": "https://gleamgiveaways.com/giveaways/",
       "note": "Quick Links All Giveaways GleamGiveaways Blog Submit a Giveaway Get Giveaway Alerts Privacy Policy"
-    },
-    {
-      "id": "907a2560f791",
-      "title": "can enter via snail mail KUUUL COW LTD KCG#1 LAUNC...",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/24/win-a-sony-65-ai-tv-sony-ps5-valued-at-5000/comment-page-1/#comment-1013744",
-      "note": "JH said can enter via snail mail KUUUL COW LTD KCG#1 LAUNC..."
     },
     {
       "id": "4f6b38521a0d",
@@ -467,6 +479,18 @@
       "note": "FREEBIES Free Stuff to order today Newsletter Contest Submit"
     },
     {
+      "id": "5c80fa671e28",
+      "title": "From the rules: You may enter only once per day, a...",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/11/07/win-a-hair-care-package-valued-at-1397/comment-page-1/#comment-1013780",
+      "note": "Anna Ngo said From the rules: You may enter only once per day, a..."
+    },
+    {
       "id": "ca5c27558540",
       "title": "Holiday Giveaways 2026 |List of Prizes ✨Daily Christmas &…",
       "sponsor": "",
@@ -489,6 +513,18 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/2026/10/23/win-a-camera-canada-gift-card-valued-at-2000/comment-page-1/#comment-1013751",
       "note": "JH said just entered no issues JH"
+    },
+    {
+      "id": "18423e820c13",
+      "title": "locally here, they are eating people",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Canada",
+      "url": "https://www.contestcanada.net/2026/11/05/win-a-1-week-accommodation-package-at-zec-dumoine-in-quebec-with-a-bear-hunt-fishing-experience-valued-at-4365/comment-page-1/#comment-1013781",
+      "note": "Fay Van Horn said locally here, they are eating people"
     },
     {
       "id": "fe4fe3a982d7",
@@ -659,18 +695,6 @@
       "note": "lesley opheim said Where do you find pin number?"
     },
     {
-      "id": "d677c287ec72",
-      "title": "Win a Muskoka Getaway, The Ghosts of Christmas Eve…",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/zoomer-radio-contests/",
-      "note": "Win a Muskoka Getaway, The Ghosts of Christmas Eve… Looking for your next great prize? The latest contests featured by Zoomer Radio in the Zoomer Post are packed with exciting giveaways—from travel getaways to must-have lifestyle prizes. Read More Canada Contests Radio Contests Win Gift Cards Win trips KIM"
-    },
-    {
       "id": "3557ef7e3ae9",
       "title": "Win Boiron Seasonal Prize Pack",
       "sponsor": "",
@@ -683,18 +707,6 @@
       "note": "Win Boiron Seasonal Prize Pack Prize: 1 Boiron seasonal kit End Date: Nov 12/26 Draw Date: Not specified Location: Not specified How to Enter: Follow, like & tag a friend on Instagram Entry Limit: Not specified Enter: Visit Boiron Canada Read More Canada Contests Health & Wellness Prizes Instagram Win Gift Cards Win Prize Packs KIM"
     },
     {
-      "id": "52ddb4ce9431",
-      "title": "Win Concert tickets to the Backstreet Boys at Rogers…",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/backstreet-boys-contest-concert-ticket-giveaways/",
-      "note": "Win Concert tickets to the Backstreet Boys at Rogers… Prize: 2 Backstreet Boys concert tickets at Rogers Centre, Toronto End Date: Not specified Draw Date: Not specified Location: Canada Age: 18+ Entry: Single entry Enter: Visit Breakfast Television Read More Canada Contests Win trips Angie B"
-    },
-    {
       "id": "5919dd6933d4",
       "title": "Win Gingerbread Protein Pancake Prize Packs",
       "sponsor": "",
@@ -705,18 +717,6 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/flourish-protein-pancake-contest/",
       "note": "Win Gingerbread Protein Pancake Prize Packs Ends: Not specified Who: Not specified How: Follow @flourishpancakes & @stillaloungewear, like post & tag friends Entry limit: Multiple entries; each tag counts; 1 bonus Story share Enter at: Visit Flourish Pancakes ContestScoop Read More Canada Contests Instagram Single Entry Sweepstakes Angie B"
-    },
-    {
-      "id": "bcda80cadd54",
-      "title": "Would be nice to know you have to follow on facebo...",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/26/win-call-of-duty-modern-warfare-4-game-for-ps5-mb/comment-page-1/#comment-1013743",
-      "note": "George said Would be nice to know you have to follow on facebo..."
     },
     {
       "id": "f3cd3bf700f2",

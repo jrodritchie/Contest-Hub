@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-11-18T21:15:20.626754+00:00",
+  "updated_at": "2026-11-19T21:17:14.160574+00:00",
   "sources_checked": [
+    "Contest Girl",
     "Contest Scoop",
-    "Contest Canada",
-    "Gleam"
+    "Contest Canada"
   ],
   "errors": [
-    "Contest Girl: Source was skipped because robots.txt could not be safely verified.",
-    "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/"
+    "Daily Contests Canada: 403 Client Error: Forbidden for url: https://dailycontests.ca/province-territory/on/",
+    "Gleam: HTTPSConnectionPool(host='gleamgiveaways.com', port=443): Max retries exceeded with url: /giveaways/platform/gleam/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gleamgiveaways.com', port=443) at 0x78efd5f57c50>, 'Connection to gleamgiveaways.com timed out. (connect timeout=25)'))"
   ],
   "contests": [
     {
-      "id": "520dd82ccc47",
-      "title": "Win 1 of 3 Trips to Tasmania ($8,870 each)",
+      "id": "3c85406359a1",
+      "title": "Win 1 of 10x Porter Airlines Vouchers |Global TV…",
       "sponsor": "",
-      "prize": 8870.0,
+      "prize": 10000.0,
       "expiry": "",
-      "frequency": "Single",
+      "frequency": "Daily",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/blundstone-canada-contest/",
-      "note": "Win 1 of 3 Trips to Tasmania ($8,870 each) Prize: 3 x trips for 2 to Tasmania (round-trip flights) + $1,870 cash each ($8,870 ARV each) Ends: Dec 11/26 Who: Canada, age 19+ How: Upload boot purchase receipt, in-store ballot or mail 250-word original essay (no AI) Entry limit: 3/person Enter at: Visit Blundstone Canada Read More Canada Contests Win trips Angie B"
+      "url": "https://www.contestscoop.com/global-tv-tms2-contest/",
+      "note": "Win 1 of 10x Porter Airlines Vouchers |Global TV… Prize: 10 prizes of 2 Porter Airlines travel vouchers ($500 each; $1,000 per winner) Value: Approx. $10,000 total prize pool Ends: Nov 28/26 at 12:50 PM ET Draw: Nov 30/26 Who: Canada (excluding QC), age of majority How: Watch TMS2 on Global TV, find Word of the Day and submit form Entry limit: 1 entry/household per Word of the Day Enter: Visit TMS2 & Porter Read More Canada Contests Daily Entry Win trips Angie B"
+    },
+    {
+      "id": "a7e421eedf6b",
+      "title": "Win Ski Trip to Whistler | Celsius Drinks",
+      "sponsor": "",
+      "prize": 8000.0,
+      "expiry": "",
+      "frequency": "Daily",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/celsius-canada-contest/",
+      "note": "Win Ski Trip to Whistler | Celsius Drinks Prize: $8,000 Whistler ski trip for 2, flights, 3 hotel nights, 2 ski passes, $2,000 travel voucher Ends: Dec 28/26 Draw: Jan 5/27 Who: Canada, age of majority How: Submit online form Entry limit: 1 entry/day Enter: Visit CELSIUS Read More Canada Contests Daily Entry Win trips Angie B"
     },
     {
       "id": "bccf1b28d431",
@@ -35,16 +47,28 @@
       "note": "Win Trip to Europe & Gift Cards | Terry’s… Prize: 1 European trip for 2 ($7,000), 108 × $28 e-gift cards Ends: Feb 17/27 Who: Canada, age of majority How: Register & play online game Entry limit: 70 entries/day/email Enter at: Visit Terry’s Chocolate Read More Canada Contests Daily Entry Play to Win Win Gift Cards Win trips Angie B"
     },
     {
-      "id": "7d30c2caaccc",
-      "title": "Chez 106 Contest: Win $6,000 JC Cayer Gift Card",
+      "id": "a9f6d7ad33ee",
+      "title": "Win $5,000 Marlin Travel Voucher | LiteRadio Ho Ho Holiday",
       "sponsor": "",
-      "prize": 6000.0,
+      "prize": 5000.0,
       "expiry": "",
-      "frequency": "Daily",
+      "frequency": "Monthly",
+      "eligibility": "Ontario",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/lite92-ca-contests/",
+      "note": "Win $5,000 Marlin Travel Voucher | LiteRadio Ho Ho Holiday Prize: $5,000 Marlin Travel voucher; concert tickets; wine packs; gift cards; Brantford Chrysler packages; Six Nations Bingo prizes ARV: $5,000 grand prize; secondary prizes $100–$250 each Ends: Dec 18/26 Who: Ontario, 21+, valid passport required How: Listen for toy words and submit ballots; find hidden elf Entry Limit: 4 toy-word entries/day + 1 Secret Elf entry/weekday Draw Date: Dec 21/26 Enter: Visit LITE 92 ContestScoop Read More C"
+    },
+    {
+      "id": "e4e639ca1f8d",
+      "title": "Global Tv Contest: Win Private Eyes West Coast Escape…",
+      "sponsor": "",
+      "prize": 2000.0,
+      "expiry": "",
+      "frequency": "Weekly",
       "eligibility": "Canada",
       "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/chez-106-contests/",
-      "note": "Chez 106 Contest: Win $6,000 JC Cayer Gift Card Prize: 9 × $250 JC Cayer gift cards; 1 × $6,000 JC Cayer gift card End Date: Nov 29/26 Draw Date: Weekdays; grand prize draw details in official rules Who: ON, QC, age of majority How: Listen for keyword; text keyword + name to 762-555 Entry Limit: Unlimited; each keyword once per entry period; daily entry required for daily draw Enter at: Visit CHEZ 106 Read More Canada Contests Radio Contests Text To Win Win Gift Cards Angie B"
+      "url": "https://www.contestscoop.com/globaltv-com-contest/",
+      "note": "Global Tv Contest: Win Private Eyes West Coast Escape… Prize: 4-night Victoria getaway; Hotel Grand Pacific Signature Harbour View Room; $2,000 WestJet E-Gift Card; $500 prepaid Visa; whale watching; Ocean River Sports tour; Pedego Electric Bikes tour; Butchart Gardens experience; CitySights passes; Royal BC Museum & IMAX passes; HAVN Saunas; Fairmont Empress afternoon tea; Victoria food tour; 4 x $150 restaurant gift cards Ends: Dec 8/26 Who: Canada, age of majority How: Watch episode, find wee"
     },
     {
       "id": "7d44de22a9a6",
@@ -71,18 +95,6 @@
       "note": "Win $1,000 Sobeys Gift Card; 3 × $250 Needs… Prize: 1 × $1,000 Sobeys gift card; 3 × $250 Needs Convenience gift cards Value: $1,750 Ends: Dec 16/26 Draw Date: Dec 17/26 Who: NB, NL, NS, PE; age of majority How: Submit form; complete bonus activities Entry Limit: 1 online entry/day; 1 daily entry/day; bonus entries available Enter: Visit Needs Convenience Read More Canada Contests Daily Entry Win Cash Win Gift Cards KIM"
     },
     {
-      "id": "74d10f71f15a",
-      "title": "Genius Cash Giveaway Contest",
-      "sponsor": "",
-      "prize": 1000.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/genius-cash-giveaway-contest/",
-      "note": "Genius Cash Giveaway Contest Prize: $500, $250, $150, $50, $50 cash ($1,000 total) Value: $1,000 Ends: Dec 16/26 Who: Canada (excluding QC), 18+ How: Complete entry form and bonus actions; mail-in entry available Entry limit: 60 entries/person Enter at: Visit GeniusCash Read More Canada Contests Trending Contests Win Cash Angie B"
-    },
-    {
       "id": "890b5d0e7b9b",
       "title": "Travel Contests",
       "sponsor": "",
@@ -93,6 +105,18 @@
       "source": "Contest Canada",
       "url": "https://contestcanada.net/category/travel-contests/",
       "note": "Today’s Quick Links Travel Contests Download the app! Win $1,000!"
+    },
+    {
+      "id": "7fe1859119ca",
+      "title": "Win $1,000 Holiday Cash from Genius Cash",
+      "sponsor": "",
+      "prize": 1000.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/genius-cash-giveaway-contest/",
+      "note": "Win $1,000 Holiday Cash from Genius Cash Prize: $500, $250, $150, $50, $50 cash ($1,000 total) Value: $1,000 Ends: Dec 16/26 Who: Canada (excluding QC), 18+ How: Complete entry form and bonus actions; mail-in entry available Entry limit: 60 entries/person Enter at: Visit GeniusCash Read More Canada Contests Trending Contests Win Cash Angie B"
     },
     {
       "id": "a16746e6c240",
@@ -119,18 +143,6 @@
       "note": "CTV Atlantic Morning Live Contest: Win $500 KENT Building… Prize: 1 × $500 KENT Building Supplies gift card ARV: $500 End Date: Nov 21/26 Draw Date: Not specified Eligibility: NB, NL, NS, PE, age 19+ Entry: 1 entry/day Enter: Visit KENT / CTV Atlantic Read More Canada Contests Single Entry Win Gift Cards Angie B"
     },
     {
-      "id": "c9a07d27b01a",
-      "title": "Win $500 Ren’s Pets Gift Card",
-      "sponsor": "",
-      "prize": 500.0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/rens-pets-contest/",
-      "note": "Win $500 Ren’s Pets Gift Card Prize: 1 × $500 Ren’s Pets gift card Ends: Not specified; draw Nov 20/26 Who: Not specified; must visit store with pet Nov 23–25 How: Follow, like post & comment with pet’s name and type Entry limit: Not specified Enter at: Visit Ren’s Pets on Facebook | Visit Ren’s Pets on Instagram Read More Canada Contests Facebook Instagram KIM"
-    },
-    {
       "id": "26d3e8aa03c8",
       "title": "Win $500 Tom Lee Music Gift Card & SHURE…",
       "sponsor": "",
@@ -141,6 +153,18 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/tom-lee-music-ca-contest/",
       "note": "Win $500 Tom Lee Music Gift Card & SHURE… Prize: 1 x $500 Tom Lee Music Gift Card Ends: Nov 30/26 Who: Canada How: Newsletter signup, social media follows, X post, referrals Entry limit: Multiple bonus entries; daily bonus entry Enter at: Enter at Tom Lee Music Read More Canada Contests Daily Entry Win Gift Cards Win Shopping Sprees Angie B"
+    },
+    {
+      "id": "c5f20aa6b550",
+      "title": "Win 5 Mystery Boxes ($500), Air Canada Vacations",
+      "sponsor": "",
+      "prize": 500.0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/air-canada-vacations-social-giveaway-contest/",
+      "note": "Win 5 Mystery Boxes ($500), Air Canada Vacations Prize: 5 mystery boxes with brand products and Air Canada gift cards ($200, $300 or $500) Ends: Nov 22/26 Who: See official rules How: Like post, comment with destination, tag a friend Entry limit: See official rules Enter at: Visit Instagram Canadian Contests at ContestScoop Read More Canada Contests Instagram Single Entry Win Gift Cards Angie B"
     },
     {
       "id": "dfe3d610a50e",
@@ -167,18 +191,6 @@
       "note": "Win Amazon Kindle, Ricola Green Tea Echinacea packs +… Prize: 2 prize packages: Province of Canada sweater, YETI 40 oz tumbler, teapot, Amazon Kindle 16GB, 2 Ricola Green Tea Echinacea packs ($415.98 each) Value: $415.98 each End Date: Nov 26/26 Draw Date: Nov 27/26 Who: Canada, age of majority (excluding QC) How: Comment on Instagram post Entry Limit: Single entry Enter: Visit Ricola Canada Read More Canada Contests Instagram Win Electronics Angie B"
     },
     {
-      "id": "82fd4294f28d",
-      "title": "Win $250 Kitchen Stuff Plus Gift Cards & More…",
-      "sponsor": "",
-      "prize": 250.0,
-      "expiry": "",
-      "frequency": "Daily",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/cp24-contest/",
-      "note": "Win $250 Kitchen Stuff Plus Gift Cards & More… Prize: 2 × $250 Kitchen Stuff Plus gift cards Starts: Nov 16/26 Ends: Not stated Prize: Toronto Zoo Glow in the Wild prize pack Starts: Nov 17/26 Prize: Ultimate Hoover holiday cleaning package Starts: Nov 17/26 Prize: Princess Margaret Early Bird prize pack Starts: Nov 20/26 Who: Not stated How: Watch CP24 Breakfast and enter online when entries open Entry limit: Not stated Enter at: Enter at CP24 Read More Canada Contests Daily Entry Win Gift Card"
-    },
-    {
       "id": "b0efeb5ea1f3",
       "title": "Subscribe Now!",
       "sponsor": "",
@@ -191,16 +203,16 @@
       "note": "Daily Updates Want a chance to win a $200 grocery gift card ? Join the thousands of members who get our daily email! Subscribe Now!"
     },
     {
-      "id": "b951b586e4ac",
-      "title": "Gleam Giveaways",
+      "id": "f1f974077761",
+      "title": "Win $100 M&M Food Market Gift Cards, 10 Winners,…",
       "sponsor": "",
-      "prize": 50.0,
+      "prize": 100.0,
       "expiry": "",
       "frequency": "Single",
       "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/gleam-giveaways/",
-      "note": "Popular Gleam Giveaways Giveaway Secret Codes Cash & Gift Card Giveaways Car Giveaways Travel & Vacation Giveaways Giveaways Under $50 Unverified Giveaways Browse by Platform Gleam SweepWidget KingSumo ViralSweep"
+      "source": "Contest Scoop",
+      "url": "https://www.contestscoop.com/mandmfoodmarket-social-contest/",
+      "note": "Win $100 M&M Food Market Gift Cards, 10 Winners,… Prize: 10 × $100 M&M Food Market Gift Cards Ends: Nov 29/26 Who: Canada (excluding QC), age of majority How: Follow @mmfoodmarket on Instagram, like, tag a friend and comment with your favourite wings flavour Entry limit: Not specified Enter at: Visit M&M Food Market Read More Canada Contests Instagram Win Gift Cards Angie B"
     },
     {
       "id": "6254493a227a",
@@ -213,30 +225,6 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/about/",
       "note": "About & Guidelines Contact us"
-    },
-    {
-      "id": "79d3a1c59e1e",
-      "title": "All Giveaways",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/",
-      "note": "Quick Links All Giveaways GleamGiveaways Blog Submit a Giveaway Get Giveaway Alerts Privacy Policy"
-    },
-    {
-      "id": "d04a376e6fbb",
-      "title": "Attractions Ontario Holiday Gift Guide Contest: Win Getaways, Tickets,…",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Ontario",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/attractions-ontario-contest/",
-      "note": "Attractions Ontario Holiday Gift Guide Contest: Win Getaways, Tickets,… Prize: Holiday gift basket: 4 Chris Funk tickets, Sushi Making 101 ticket, London Children’s Museum family pass, uplå family pass for 4, OWL Rafting adventure for 2, 4 Pocket Planet tickets, 2 Gray Line shuttle tickets with Winter Village admission, 4 Arcadia Earth tickets, 2 Niagara Jazz Festival tickets Who: Eligibility not specified How: Complete entry form and answer skill-testing question Entry limit: Single entry Draw "
     },
     {
       "id": "c6e283fd506f",
@@ -261,30 +249,6 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/canadian-contests/",
       "note": "Canadian Contests Quebec Concours Sweepstakes US"
-    },
-    {
-      "id": "e440904100f4",
-      "title": "Cash & Gift Card Giveaways",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/cash-and-gift-cards/",
-      "note": "Cash & Gift Card Giveaways"
-    },
-    {
-      "id": "76a153c2578b",
-      "title": "Categories Expand",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/categories/",
-      "note": "Categories Expand Cash & Valuables 💵 Cash & Gift Cards 💍 Jewelry & Watches 🪙 Gold & Precious Metals ⛓️ Crypto Tech & Gaming 💻 Electronics & Gadgets 🎮 Gaming 📷 Photography & Cameras Home & Hobbies 🏠 Home, Furniture & Appliances 🔧 Tools & Hardware 🪴 Patio & Garden 🎨 Arts & Crafts Fashion & Beauty 💄 Health & Beauty 👕 Clothing, Shoes & Accessories Entertainment 🎬 Movies, Music & Books 🎤 Concerts & Live Entertainment 🎸 Musical Instruments & Gear Sports & Travel 🏆 Sports, Fitness & Outdoors ✈️ Travel "
     },
     {
       "id": "dbe2dee62b24",
@@ -503,40 +467,16 @@
       "note": "Allen L said Not the proper gleam link. Was this supposed to be..."
     },
     {
-      "id": "83e788fd8ffb",
-      "title": "Nov 13th —— mistletoe",
+      "id": "75f3de98f646",
+      "title": "Nov 18th —- ghost",
       "sponsor": "",
       "prize": 0,
       "expiry": "",
       "frequency": "Single",
       "eligibility": "Canada",
       "source": "Contest Canada",
-      "url": "https://www.contestcanada.net/2026/10/20/win-a-5-night-trip-to-orlando-florida-for-4-people-with-flights-hotel-disney-experience-valued-at-15202/comment-page-1/#comment-1013806",
-      "note": "JH said Nov 13th —— mistletoe"
-    },
-    {
-      "id": "20717335ae5e",
-      "title": "Platforms",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/platform/gleam/#",
-      "note": "Platforms Toggle child menu Expand 💎 Gleam 🧩 SweepWidget 🌀 ViralSweep 📦 Woobox 👑 KingSumo 🎧 Tunespeak 📰 Second Street 🎁 Other"
-    },
-    {
-      "id": "90c39eda2976",
-      "title": "Platforms Expand",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/platform/gleam/#",
-      "note": "Platforms Expand 💎 Gleam 🧩 SweepWidget 🌀 ViralSweep 📦 Woobox 👑 KingSumo 🎧 Tunespeak 📰 Second Street 🎁 Other"
+      "url": "https://www.contestcanada.net/2026/10/07/win-a-4-night-trip-to-victoria-bc-with-flights-hotel-gift-card-activity-package-valued-at-10000/comment-page-1/#comment-1013830",
+      "note": "JH said Nov 18th —- ghost"
     },
     {
       "id": "2d95b034883c",
@@ -575,6 +515,18 @@
       "note": "Reviews & Recommendations"
     },
     {
+      "id": "89187f52dbe4",
+      "title": "Sorted by Posted Date",
+      "sponsor": "",
+      "prize": 0,
+      "expiry": "",
+      "frequency": "Single",
+      "eligibility": "Canada",
+      "source": "Contest Girl",
+      "url": "https://www.contestgirl.com/contests/contests.pl?ar=na&b=nb&c=ca&f=d&s=_&sort=p#",
+      "note": "Sorted by Posted Date Sort by Expiry Date Sort by Most Valuable Sort by Most Popular Sort by Most Comments"
+    },
+    {
       "id": "e2651bf1cc8c",
       "title": "Subscribe Free",
       "sponsor": "",
@@ -611,18 +563,6 @@
       "note": "Slikk said This isn’t a valid contest link"
     },
     {
-      "id": "713336e98868",
-      "title": "Travel & Vacation Giveaways",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/travel-and-leisure/",
-      "note": "Travel & Vacation Giveaways"
-    },
-    {
       "id": "d622857dc9b3",
       "title": "Win Blackhawk Ice Prey BW10 Winter Tires, Hoodie, Toque,…",
       "sponsor": "",
@@ -633,18 +573,6 @@
       "source": "Contest Scoop",
       "url": "https://www.contestscoop.com/blackhawk-tire-canada-contest/",
       "note": "Win Blackhawk Ice Prey BW10 Winter Tires, Hoodie, Toque,… Prize: Ice Prey BW10 winter tires, Blackhawk hoodie, toque, portable tire inflator & dash cam Ends: Nov 24/26 Who: Canada & U.S. (age requirements not specified) How: Follow, like, comment & submit online form Entry limit: Not specified Enter at: Visit Blackhawk Tire Read More Canada Contests Instagram Single Entry Angie B"
-    },
-    {
-      "id": "1b7e44554aae",
-      "title": "Win Dog or Cat Advent Calendar | RensPets Instagram",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Contest Scoop",
-      "url": "https://www.contestscoop.com/renspets-facebook-instagram-giveaway-contest/",
-      "note": "Win Dog or Cat Advent Calendar | RensPets Instagram Prize: 1 Dog Advent Calendar + 1 Cat Advent Calendar (Vetdiet or Petstory) Draw: Nov 24/26 Who: Canada; age requirements not specified How: Count jumps, comment with answer and 🐶 or 😺, follow @renspets Entry limit: Not specified Enter at: Visit Ren’s Pets Read More Canada Contests Facebook Instagram Win Gift Cards Angie B"
     },
     {
       "id": "48130b341057",
@@ -705,90 +633,6 @@
       "source": "Contest Canada",
       "url": "https://www.contestcanada.net/#",
       "note": "Get the App 🍎 Coming soon to the App Store ▶ Get it on Google Play"
-    },
-    {
-      "id": "7015012ce7e2",
-      "title": "🎤 Concerts & Live Entertainment",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/concerts-and-events/",
-      "note": "🎤 Concerts & Live Entertainment"
-    },
-    {
-      "id": "b6db1a10dc0d",
-      "title": "🎸 Musical Instruments & Gear",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/musical-instruments/",
-      "note": "🎸 Musical Instruments & Gear"
-    },
-    {
-      "id": "394cb7e8a094",
-      "title": "🏆 Sports, Fitness & Outdoors",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/sports-and-outdoors/",
-      "note": "🏆 Sports, Fitness & Outdoors"
-    },
-    {
-      "id": "521a21ae4de7",
-      "title": "🏠 Home, Furniture & Appliances",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/home-and-furniture/",
-      "note": "🏠 Home, Furniture & Appliances"
-    },
-    {
-      "id": "3b64ed8c9a50",
-      "title": "👕 Clothing, Shoes & Accessories",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/clothing-and-accessories/",
-      "note": "👕 Clothing, Shoes & Accessories"
-    },
-    {
-      "id": "7d8accdb55fa",
-      "title": "🚗 Automotive, Motorcycles & Boats",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/auto/",
-      "note": "🚗 Automotive, Motorcycles & Boats"
-    },
-    {
-      "id": "41e7c7db088d",
-      "title": "🧸 Toys, Games & Collectibles",
-      "sponsor": "",
-      "prize": 0,
-      "expiry": "",
-      "frequency": "Single",
-      "eligibility": "Canada",
-      "source": "Gleam",
-      "url": "https://gleamgiveaways.com/giveaways/category/toys-and-collectibles/",
-      "note": "🧸 Toys, Games & Collectibles"
     },
     {
       "id": "355ca8393e8a",
